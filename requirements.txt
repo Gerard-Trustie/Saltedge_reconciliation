@@ -8,3 +8,6 @@ isort==5.13.2  # Import sorter
 
 # Type checking
 mypy==1.9.0
+
+# Data processing
+pandas==2.2.1

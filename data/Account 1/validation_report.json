@@ -1,0 +1,4841 @@
+{
+  "summary": {
+    "total_validated": 355,
+    "total_missing_from_json": 0,
+    "total_extra_in_json": 8,
+    "total_discrepancies": 0
+  },
+  "validated_transactions": [
+    {
+      "amount": -700.72,
+      "date": "2024-01-23",
+      "original_data": {
+        "Date": "23 Jan 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-700.72",
+        "Balance": "-546.07",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -126.83,
+      "date": "2024-01-24",
+      "original_data": {
+        "Date": "24 Jan 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-126.83",
+        "Balance": "-672.90",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-01-25",
+      "original_data": {
+        "Date": "25 Jan 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "-756.90",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-01-25",
+      "original_data": {
+        "Date": "25 Jan 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "-1085.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-01-26",
+      "original_data": {
+        "Date": "26 Jan 2024",
+        "Type": "C/L",
+        "Description": "ULSTER BANK 25JAN",
+        "Value": "-100.00",
+        "Balance": "-1185.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -74.22,
+      "date": "2024-01-26",
+      "original_data": {
+        "Date": "26 Jan 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-74.22",
+        "Balance": "-1259.75",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -17.99,
+      "date": "2024-01-29",
+      "original_data": {
+        "Date": "29 Jan 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-17.99",
+        "Balance": "-1277.74",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-01-29",
+      "original_data": {
+        "Date": "29 Jan 2024",
+        "Type": "D/D",
+        "Description": "SANLAM INV & PEN",
+        "Value": "-75.00",
+        "Balance": "-1352.74",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -253.1,
+      "date": "2024-01-31",
+      "original_data": {
+        "Date": "31 Jan 2024",
+        "Type": "D/D",
+        "Description": "LPS",
+        "Value": "-253.10",
+        "Balance": "-1605.84",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 250.0,
+      "date": "2024-02-01",
+      "original_data": {
+        "Date": "01 Feb 2024",
+        "Type": "BAC",
+        "Description": "MRS RITA MCNAMEE W, RITA, SARAH , FP 01/02/24 1419 , 35673691914115F4SW",
+        "Value": "250.00",
+        "Balance": "-1355.84",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-02-01",
+      "original_data": {
+        "Date": "01 Feb 2024",
+        "Type": "BAC",
+        "Description": "LYNDA MACNAMEE , OCUEFT , FP 01/02/24 1350 , 959108240320020008",
+        "Value": "3000.00",
+        "Balance": "1644.16",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 1000.0,
+      "date": "2024-02-01",
+      "original_data": {
+        "Date": "01 Feb 2024",
+        "Type": "BAC",
+        "Description": "O MACNAMEE , CYAR , FP 01/02/24 0923 , 300000001289031879",
+        "Value": "1000.00",
+        "Balance": "2644.16",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 500.0,
+      "date": "2024-02-01",
+      "original_data": {
+        "Date": "01 Feb 2024",
+        "Type": "DPC",
+        "Description": "From A/C 61567965 , MACNAMEE L, E-SAVE, Via Mobile Xfer",
+        "Value": "500.00",
+        "Balance": "3144.16",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -684.66,
+      "date": "2024-02-01",
+      "original_data": {
+        "Date": "01 Feb 2024",
+        "Type": "S/O",
+        "Description": "WINMARITH HOMES LT, FP 01/02/24 30 , 06023854322647000N",
+        "Value": "-684.66",
+        "Balance": "2459.50",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-02-01",
+      "original_data": {
+        "Date": "01 Feb 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "2396.50",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-02-01",
+      "original_data": {
+        "Date": "01 Feb 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "2391.55",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.11,
+      "date": "2024-02-01",
+      "original_data": {
+        "Date": "01 Feb 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-40.11",
+        "Balance": "2351.44",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -2412.93,
+      "date": "2024-02-02",
+      "original_data": {
+        "Date": "02 Feb 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , 32E7E527796B4FBFBA, TPP NATIONAL WESTM, FP 02/02/24 10 , 18112339363072000N",
+        "Value": "-2412.93",
+        "Balance": "-61.49",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 4000.0,
+      "date": "2024-02-05",
+      "original_data": {
+        "Date": "05 Feb 2024",
+        "Type": "BAC",
+        "Description": "LYNDA MAC NAMEE , TRANSFER , FP 05/02/24 1010 , 00151046632BBRCBWJ",
+        "Value": "4000.00",
+        "Balance": "3938.51",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -500.0,
+      "date": "2024-02-05",
+      "original_data": {
+        "Date": "05 Feb 2024",
+        "Type": "DPC",
+        "Description": "To A/C 61567965 , MACNAMEE L, E-SAVE, Via Mobile Xfer",
+        "Value": "-500.00",
+        "Balance": "3438.51",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-02-05",
+      "original_data": {
+        "Date": "05 Feb 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 05/02/24 30 , 52013328463080000N",
+        "Value": "-120.00",
+        "Balance": "3318.51",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-02-07",
+      "original_data": {
+        "Date": "07 Feb 2024",
+        "Type": "D/D",
+        "Description": "OMAGH CREDIT UNION",
+        "Value": "-1000.00",
+        "Balance": "2318.51",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -9.67,
+      "date": "2024-02-09",
+      "original_data": {
+        "Date": "09 Feb 2024",
+        "Type": "INT",
+        "Description": "21JAN A/C 22993673",
+        "Value": "-9.67",
+        "Balance": "2308.84",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.0,
+      "date": "2024-02-09",
+      "original_data": {
+        "Date": "09 Feb 2024",
+        "Type": "DPC",
+        "Description": "MISS N E MAC NAMEE, Supper , VIA MOBILE - PYMT , FP 08/02/24 10 , 26190342990589000N",
+        "Value": "-40.00",
+        "Balance": "2268.84",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -265.0,
+      "date": "2024-02-09",
+      "original_data": {
+        "Date": "09 Feb 2024",
+        "Type": "DPC",
+        "Description": "Attila Mathe , MacNamee , VIA MOBILE - PYMT , FP 09/02/24 10 , 07164622823235000N",
+        "Value": "-265.00",
+        "Balance": "2003.84",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 510.0,
+      "date": "2024-02-12",
+      "original_data": {
+        "Date": "12 Feb 2024",
+        "Type": "BAC",
+        "Description": "O MACNAMEE , CAR , FP 09/02/24 1842 , 100000001287593711",
+        "Value": "510.00",
+        "Balance": "2513.84",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -55.0,
+      "date": "2024-02-12",
+      "original_data": {
+        "Date": "12 Feb 2024",
+        "Type": "DPC",
+        "Description": "MISS O C MACNAMEE , LOVE YOU , VIA MOBILE - PYMT , FP 11/02/24 10 , 11191955943166000N",
+        "Value": "-55.00",
+        "Balance": "2458.84",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -300.0,
+      "date": "2024-02-12",
+      "original_data": {
+        "Date": "12 Feb 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MAC NAMEE , 0000AEKIIKYECJVBWI, CNLV , TPP MONZO BANK LIM, FP 10/02/24 10 , 39171352397629000N",
+        "Value": "-300.00",
+        "Balance": "2158.84",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -42.5,
+      "date": "2024-02-12",
+      "original_data": {
+        "Date": "12 Feb 2024",
+        "Type": "POS",
+        "Description": "9836 10FEB24 C , SUMUP *VOODOO , RAYS , LONDON GB",
+        "Value": "-42.50",
+        "Balance": "2116.34",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -26.4,
+      "date": "2024-02-12",
+      "original_data": {
+        "Date": "12 Feb 2024",
+        "Type": "POS",
+        "Description": "9836 10FEB24 C , SUMUP *VOODOO , RAYS , LONDON GB",
+        "Value": "-26.40",
+        "Balance": "2089.94",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-02-12",
+      "original_data": {
+        "Date": "12 Feb 2024",
+        "Type": "C/L",
+        "Description": "BARCLAYS BNK 11FEB",
+        "Value": "-100.00",
+        "Balance": "1989.94",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -37.99,
+      "date": "2024-02-12",
+      "original_data": {
+        "Date": "12 Feb 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-37.99",
+        "Balance": "1951.95",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -2478.45,
+      "date": "2024-02-14",
+      "original_data": {
+        "Date": "14 Feb 2024",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , FD48E78B-E814-4 , TPP MBNA LIMITED , FP 14/02/24 10 , 63170500350583000N",
+        "Value": "-2478.45",
+        "Balance": "-526.50",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-02-15",
+      "original_data": {
+        "Date": "15 Feb 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "-570.50",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -224.59,
+      "date": "2024-02-20",
+      "original_data": {
+        "Date": "20 Feb 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-224.59",
+        "Balance": "-795.09",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-02-26",
+      "original_data": {
+        "Date": "26 Feb 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "-879.09",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -126.83,
+      "date": "2024-02-26",
+      "original_data": {
+        "Date": "26 Feb 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-126.83",
+        "Balance": "-1005.92",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-02-26",
+      "original_data": {
+        "Date": "26 Feb 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "-1334.55",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-02-27",
+      "original_data": {
+        "Date": "27 Feb 2024",
+        "Type": "D/D",
+        "Description": "SANLAM INV & PEN",
+        "Value": "-75.00",
+        "Balance": "-1409.55",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -17.99,
+      "date": "2024-02-28",
+      "original_data": {
+        "Date": "28 Feb 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-17.99",
+        "Balance": "-1427.54",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -81.81,
+      "date": "2024-02-28",
+      "original_data": {
+        "Date": "28 Feb 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-81.81",
+        "Balance": "-1509.35",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 2500.0,
+      "date": "2024-03-01",
+      "original_data": {
+        "Date": "01 Mar 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "2500.00",
+        "Balance": "990.65",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 2500.0,
+      "date": "2024-03-01",
+      "original_data": {
+        "Date": "01 Mar 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "2500.00",
+        "Balance": "3490.65",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -684.66,
+      "date": "2024-03-01",
+      "original_data": {
+        "Date": "01 Mar 2024",
+        "Type": "S/O",
+        "Description": "WINMARITH HOMES LT, FP 01/03/24 30 , 09023833630419000N",
+        "Value": "-684.66",
+        "Balance": "2805.99",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-03-01",
+      "original_data": {
+        "Date": "01 Mar 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "2742.99",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.11,
+      "date": "2024-03-01",
+      "original_data": {
+        "Date": "01 Mar 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-40.11",
+        "Balance": "2702.88",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-03-04",
+      "original_data": {
+        "Date": "04 Mar 2024",
+        "Type": "DPC",
+        "Description": "MISS O C MACNAMEE , LOVE YOU , VIA MOBILE - PYMT , FP 04/03/24 10 , 41130913814697000N",
+        "Value": "-100.00",
+        "Balance": "2602.88",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1021.29,
+      "date": "2024-03-04",
+      "original_data": {
+        "Date": "04 Mar 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , 6215F34A737E4577AE, TPP NATIONAL WESTM, FP 01/03/24 10 , 45202410556169000N",
+        "Value": "-1021.29",
+        "Balance": "1581.59",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-03-04",
+      "original_data": {
+        "Date": "04 Mar 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 04/03/24 30 , 09013337293319000N",
+        "Value": "-120.00",
+        "Balance": "1461.59",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -484.91,
+      "date": "2024-03-04",
+      "original_data": {
+        "Date": "04 Mar 2024",
+        "Type": "D/D",
+        "Description": "SSE AIRTRICITY",
+        "Value": "-484.91",
+        "Balance": "976.68",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-03-04",
+      "original_data": {
+        "Date": "04 Mar 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "971.73",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-03-06",
+      "original_data": {
+        "Date": "06 Mar 2024",
+        "Type": "D/D",
+        "Description": "OMAGH CREDIT UNION",
+        "Value": "-1000.00",
+        "Balance": "-28.27",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1002.0,
+      "date": "2024-03-11",
+      "original_data": {
+        "Date": "11 Mar 2024",
+        "Type": "DPC",
+        "Description": "MBNA , 450197******3470 , VIA MOBILE - PYMT , FP 09/03/24 10 , 63144001376569000N",
+        "Value": "-1002.00",
+        "Balance": "-1030.27",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -200.0,
+      "date": "2024-03-11",
+      "original_data": {
+        "Date": "11 Mar 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , TO REVOLUT -F6CT- , TPP REVOLUT LTD , FP 09/03/24 10 , 15144539252924000N",
+        "Value": "-200.00",
+        "Balance": "-1230.27",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -37.99,
+      "date": "2024-03-12",
+      "original_data": {
+        "Date": "12 Mar 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-37.99",
+        "Balance": "-1268.26",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -14.38,
+      "date": "2024-03-13",
+      "original_data": {
+        "Date": "13 Mar 2024",
+        "Type": "INT",
+        "Description": "21FEB A/C 22993673",
+        "Value": "-14.38",
+        "Balance": "-1282.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-03-15",
+      "original_data": {
+        "Date": "15 Mar 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "-1326.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-03-19",
+      "original_data": {
+        "Date": "19 Mar 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , TO REVOLUT -TUX8- , TPP REVOLUT LTD , FP 18/03/24 10 , 50221107991522000N",
+        "Value": "-100.00",
+        "Balance": "-1426.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-03-22",
+      "original_data": {
+        "Date": "22 Mar 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , TO REVOLUT -CY5B- , TPP REVOLUT LTD , FP 22/03/24 10 , 61034820368465000N",
+        "Value": "-100.00",
+        "Balance": "-1526.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-03-25",
+      "original_data": {
+        "Date": "25 Mar 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3000.00",
+        "Balance": "1473.36",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-03-25",
+      "original_data": {
+        "Date": "25 Mar 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "1389.36",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -126.83,
+      "date": "2024-03-25",
+      "original_data": {
+        "Date": "25 Mar 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-126.83",
+        "Balance": "1262.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-03-25",
+      "original_data": {
+        "Date": "25 Mar 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "933.90",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -41.93,
+      "date": "2024-03-25",
+      "original_data": {
+        "Date": "25 Mar 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-41.93",
+        "Balance": "891.97",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -300.0,
+      "date": "2024-03-26",
+      "original_data": {
+        "Date": "26 Mar 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , TO REVOLUT -KS34- , TPP REVOLUT LTD , FP 26/03/24 10 , 18002726133681000N",
+        "Value": "-300.00",
+        "Balance": "591.97",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -17.99,
+      "date": "2024-03-27",
+      "original_data": {
+        "Date": "27 Mar 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-17.99",
+        "Balance": "573.98",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-03-27",
+      "original_data": {
+        "Date": "27 Mar 2024",
+        "Type": "D/D",
+        "Description": "SANLAM INV & PEN",
+        "Value": "-75.00",
+        "Balance": "498.98",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -81.07,
+      "date": "2024-03-27",
+      "original_data": {
+        "Date": "27 Mar 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-81.07",
+        "Balance": "417.91",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -730.0,
+      "date": "2024-04-02",
+      "original_data": {
+        "Date": "02 Apr 2024",
+        "Type": "DPC",
+        "Description": "MBNA , 450197******3470 , VIA MOBILE - PYMT , FP 02/04/24 10 , 47133955049507000N",
+        "Value": "-730.00",
+        "Balance": "-312.09",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -300.0,
+      "date": "2024-04-02",
+      "original_data": {
+        "Date": "02 Apr 2024",
+        "Type": "DPC",
+        "Description": "MISS O C MACNAMEE , LOVE YOU , VIA MOBILE - PYMT , FP 28/03/24 10 , 05233828366684000N",
+        "Value": "-300.00",
+        "Balance": "-612.09",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -684.66,
+      "date": "2024-04-02",
+      "original_data": {
+        "Date": "02 Apr 2024",
+        "Type": "S/O",
+        "Description": "WINMARITH HOMES LT, FP 02/04/24 30 , 08014057042813000N",
+        "Value": "-684.66",
+        "Balance": "-1296.75",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-04-02",
+      "original_data": {
+        "Date": "02 Apr 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "-1359.75",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-04-02",
+      "original_data": {
+        "Date": "02 Apr 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "-1364.70",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.11,
+      "date": "2024-04-02",
+      "original_data": {
+        "Date": "02 Apr 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-40.11",
+        "Balance": "-1404.81",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -310.0,
+      "date": "2024-04-04",
+      "original_data": {
+        "Date": "04 Apr 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , D8A5CDBF1A054AD592, VIA MOBILE - PYMT",
+        "Value": "-310.00",
+        "Balance": "-1714.81",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-04-04",
+      "original_data": {
+        "Date": "04 Apr 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 04/04/24 30 , 28023227220908000N",
+        "Value": "-120.00",
+        "Balance": "-1834.81",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -300.0,
+      "date": "2024-04-08",
+      "original_data": {
+        "Date": "08 Apr 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , TO REVOLUT -0U0M- , TPP REVOLUT LTD , FP 06/04/24 10 , 08063006588639000N",
+        "Value": "-300.00",
+        "Balance": "-2134.81",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 1500.0,
+      "date": "2024-04-09",
+      "original_data": {
+        "Date": "09 Apr 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "1500.00",
+        "Balance": "-634.81",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -500.0,
+      "date": "2024-04-09",
+      "original_data": {
+        "Date": "09 Apr 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , TO REVOLUT -IAJW- , TPP REVOLUT LTD , FP 09/04/24 10 , 50051629592635000N",
+        "Value": "-500.00",
+        "Balance": "-1134.81",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -309.74,
+      "date": "2024-04-10",
+      "original_data": {
+        "Date": "10 Apr 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , E62D3392E45C460BA4, TPP NATIONAL WESTM, FP 09/04/24 10 , 36224731235648000N",
+        "Value": "-309.74",
+        "Balance": "-1444.55",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -21.95,
+      "date": "2024-04-11",
+      "original_data": {
+        "Date": "11 Apr 2024",
+        "Type": "INT",
+        "Description": "21MAR A/C 22993673",
+        "Value": "-21.95",
+        "Balance": "-1466.50",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -200.0,
+      "date": "2024-04-11",
+      "original_data": {
+        "Date": "11 Apr 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , TO REVOLUT -U706- , TPP REVOLUT LTD , FP 11/04/24 10 , 24114542724506000N",
+        "Value": "-200.00",
+        "Balance": "-1666.50",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -41.28,
+      "date": "2024-04-11",
+      "original_data": {
+        "Date": "11 Apr 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-41.28",
+        "Balance": "-1707.78",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-04-15",
+      "original_data": {
+        "Date": "15 Apr 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3000.00",
+        "Balance": "1292.22",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -545.0,
+      "date": "2024-04-15",
+      "original_data": {
+        "Date": "15 Apr 2024",
+        "Type": "DPC",
+        "Description": "MBNA , 450197******3470 , VIA MOBILE - PYMT , FP 15/04/24 10 , 39084607501056000N",
+        "Value": "-545.00",
+        "Balance": "747.22",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-04-15",
+      "original_data": {
+        "Date": "15 Apr 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "703.22",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -200.0,
+      "date": "2024-04-17",
+      "original_data": {
+        "Date": "17 Apr 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , TO REVOLUT -7NJN- , TPP REVOLUT LTD , FP 17/04/24 10 , 62073206565740000N",
+        "Value": "-200.00",
+        "Balance": "503.22",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -112.04,
+      "date": "2024-04-22",
+      "original_data": {
+        "Date": "22 Apr 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-112.04",
+        "Balance": "391.18",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -52.22,
+      "date": "2024-04-23",
+      "original_data": {
+        "Date": "23 Apr 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , E516C072BB1D48B385, TPP NATIONAL WESTM, FP 23/04/24 10 , 49050507771591000N",
+        "Value": "-52.22",
+        "Balance": "338.96",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -689.0,
+      "date": "2024-04-23",
+      "original_data": {
+        "Date": "23 Apr 2024",
+        "Type": "DPC",
+        "Description": "Heating Oil , Mac020 , VIA MOBILE - PYMT , FP 23/04/24 10 , 53124535558877000N",
+        "Value": "-689.00",
+        "Balance": "-350.04",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -150.07,
+      "date": "2024-04-24",
+      "original_data": {
+        "Date": "24 Apr 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-150.07",
+        "Balance": "-500.11",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-04-25",
+      "original_data": {
+        "Date": "25 Apr 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "-584.11",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-04-25",
+      "original_data": {
+        "Date": "25 Apr 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "-912.74",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -99.88,
+      "date": "2024-04-26",
+      "original_data": {
+        "Date": "26 Apr 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-99.88",
+        "Balance": "-1012.62",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-04-29",
+      "original_data": {
+        "Date": "29 Apr 2024",
+        "Type": "D/D",
+        "Description": "SANLAM INV & PEN",
+        "Value": "-75.00",
+        "Balance": "-1087.62",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -200.0,
+      "date": "2024-04-30",
+      "original_data": {
+        "Date": "30 Apr 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , TO REVOLUT -3MUV- , TPP REVOLUT LTD , FP 30/04/24 10 , 33084658861857000N",
+        "Value": "-200.00",
+        "Balance": "-1287.62",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -264.07,
+      "date": "2024-04-30",
+      "original_data": {
+        "Date": "30 Apr 2024",
+        "Type": "D/D",
+        "Description": "LAND & PROPERTY SE",
+        "Value": "-264.07",
+        "Balance": "-1551.69",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -684.66,
+      "date": "2024-05-01",
+      "original_data": {
+        "Date": "01 May 2024",
+        "Type": "S/O",
+        "Description": "WINMARITH HOMES LT, FP 01/05/24 30 , 44023839682088000N",
+        "Value": "-684.66",
+        "Balance": "-2236.35",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-05-01",
+      "original_data": {
+        "Date": "01 May 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "-2299.35",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.11,
+      "date": "2024-05-01",
+      "original_data": {
+        "Date": "01 May 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-40.11",
+        "Balance": "-2339.46",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 2000.0,
+      "date": "2024-05-02",
+      "original_data": {
+        "Date": "02 May 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "2000.00",
+        "Balance": "-339.46",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-05-02",
+      "original_data": {
+        "Date": "02 May 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3000.00",
+        "Balance": "2660.54",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -408.94,
+      "date": "2024-05-02",
+      "original_data": {
+        "Date": "02 May 2024",
+        "Type": "D/D",
+        "Description": "SSEAIRTRICITY",
+        "Value": "-408.94",
+        "Balance": "2251.60",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-05-02",
+      "original_data": {
+        "Date": "02 May 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "2246.65",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-05-07",
+      "original_data": {
+        "Date": "07 May 2024",
+        "Type": "DPC",
+        "Description": "MISS O C MACNAMEE , LOVE YOU , VIA MOBILE - PYMT , FP 07/05/24 10 , 20174426462293000N",
+        "Value": "-100.00",
+        "Balance": "2146.65",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-05-07",
+      "original_data": {
+        "Date": "07 May 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 07/05/24 30 , 50013422918537000N",
+        "Value": "-120.00",
+        "Balance": "2026.65",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-05-08",
+      "original_data": {
+        "Date": "08 May 2024",
+        "Type": "D/D",
+        "Description": "OMAGH CREDIT UNION",
+        "Value": "-1000.00",
+        "Balance": "1026.65",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -114.67,
+      "date": "2024-05-09",
+      "original_data": {
+        "Date": "09 May 2024",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , 6EA6F47D-02D1-4 , TPP MBNA LIMITED , FP 09/05/24 10 , 62140411166311000N",
+        "Value": "-114.67",
+        "Balance": "911.98",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -24.29,
+      "date": "2024-05-10",
+      "original_data": {
+        "Date": "10 May 2024",
+        "Type": "INT",
+        "Description": "21APR A/C 22993673",
+        "Value": "-24.29",
+        "Balance": "887.69",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1.55,
+      "date": "2024-05-10",
+      "original_data": {
+        "Date": "10 May 2024",
+        "Type": "CHG",
+        "Description": "UNPAID TRANSAC FEE, 19APR A/C 22993673",
+        "Value": "-1.55",
+        "Balance": "886.14",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.99,
+      "date": "2024-05-13",
+      "original_data": {
+        "Date": "13 May 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-40.99",
+        "Balance": "845.15",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 1.38,
+      "date": "2024-05-15",
+      "original_data": {
+        "Date": "15 May 2024",
+        "Type": "NDC",
+        "Description": "BANCO SANTANDER",
+        "Value": "1.38",
+        "Balance": "846.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-05-15",
+      "original_data": {
+        "Date": "15 May 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "802.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -23.0,
+      "date": "2024-05-16",
+      "original_data": {
+        "Date": "16 May 2024",
+        "Type": "DPC",
+        "Description": "MISS O C MACNAMEE , LOVE YOU , VIA MOBILE - PYMT , FP 16/05/24 10 , 38141625454959000N",
+        "Value": "-23.00",
+        "Balance": "779.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-05-16",
+      "original_data": {
+        "Date": "16 May 2024",
+        "Type": "C/L",
+        "Description": "BMACH 15MAY",
+        "Value": "-100.00",
+        "Balance": "679.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 300.0,
+      "date": "2024-05-20",
+      "original_data": {
+        "Date": "20 May 2024",
+        "Type": "BAC",
+        "Description": "O MACNAMEE , CAR , FP 17/05/24 2020 , 200000001346048826",
+        "Value": "300.00",
+        "Balance": "979.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -300.0,
+      "date": "2024-05-20",
+      "original_data": {
+        "Date": "20 May 2024",
+        "Type": "DPC",
+        "Description": "LS MAC NAMEE , ABBY , VIA MOBILE - PYMT , FP 20/05/24 10 , 54093505139813000N",
+        "Value": "-300.00",
+        "Balance": "679.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -36.0,
+      "date": "2024-05-20",
+      "original_data": {
+        "Date": "20 May 2024",
+        "Type": "DPC",
+        "Description": "MISS O C MACNAMEE , LOVE YOU , VIA MOBILE - PYMT , FP 18/05/24 10 , 13103150148614000N",
+        "Value": "-36.00",
+        "Balance": "643.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -250.0,
+      "date": "2024-05-21",
+      "original_data": {
+        "Date": "21 May 2024",
+        "Type": "POC",
+        "Description": "POST OFFICE 21MAY",
+        "Value": "-250.00",
+        "Balance": "393.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -144.05,
+      "date": "2024-05-21",
+      "original_data": {
+        "Date": "21 May 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-144.05",
+        "Balance": "249.48",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 1500.0,
+      "date": "2024-05-22",
+      "original_data": {
+        "Date": "22 May 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "1500.00",
+        "Balance": "1749.48",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 1000.0,
+      "date": "2024-05-22",
+      "original_data": {
+        "Date": "22 May 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "1000.00",
+        "Balance": "2749.48",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.8,
+      "date": "2024-05-23",
+      "original_data": {
+        "Date": "23 May 2024",
+        "Type": "DPC",
+        "Description": "HOMECARE SYSTEMS L, MAC NAMEE 1563 , VIA MOBILE - PYMT , FP 23/05/24 10 , 59131128213685000N",
+        "Value": "-120.80",
+        "Balance": "2628.68",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -149.98,
+      "date": "2024-05-24",
+      "original_data": {
+        "Date": "24 May 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-149.98",
+        "Balance": "2478.70",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1641.24,
+      "date": "2024-05-28",
+      "original_data": {
+        "Date": "28 May 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , 4F0013B467E4447892, TPP NATIONAL WESTM, FP 27/05/24 10 , 01205030523174000N",
+        "Value": "-1641.24",
+        "Balance": "837.46",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-05-28",
+      "original_data": {
+        "Date": "28 May 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "753.46",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-05-28",
+      "original_data": {
+        "Date": "28 May 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "424.83",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-05-28",
+      "original_data": {
+        "Date": "28 May 2024",
+        "Type": "D/D",
+        "Description": "SANLAM INV & PEN",
+        "Value": "-75.00",
+        "Balance": "349.83",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -79.43,
+      "date": "2024-05-29",
+      "original_data": {
+        "Date": "29 May 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-79.43",
+        "Balance": "270.40",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -19.99,
+      "date": "2024-05-30",
+      "original_data": {
+        "Date": "30 May 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-19.99",
+        "Balance": "250.41",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -264.05,
+      "date": "2024-05-31",
+      "original_data": {
+        "Date": "31 May 2024",
+        "Type": "D/D",
+        "Description": "LAND & PROPERTY SE",
+        "Value": "-264.05",
+        "Balance": "-13.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -624.0,
+      "date": "2024-06-03",
+      "original_data": {
+        "Date": "03 Jun 2024",
+        "Type": "DPC",
+        "Description": "MCHUGH FUELS , MAC020/ OL166597 , VIA MOBILE - PYMT , FP 02/06/24 10 , 09201656189899000N",
+        "Value": "-624.00",
+        "Balance": "-637.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -684.66,
+      "date": "2024-06-03",
+      "original_data": {
+        "Date": "03 Jun 2024",
+        "Type": "S/O",
+        "Description": "WINMARITH HOMES LT, FP 03/06/24 30 , 51014017349847000N",
+        "Value": "-684.66",
+        "Balance": "-1322.30",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-06-03",
+      "original_data": {
+        "Date": "03 Jun 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "-1385.30",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-06-03",
+      "original_data": {
+        "Date": "03 Jun 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "-1390.25",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.11,
+      "date": "2024-06-03",
+      "original_data": {
+        "Date": "03 Jun 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-40.11",
+        "Balance": "-1430.36",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-06-04",
+      "original_data": {
+        "Date": "04 Jun 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 04/06/24 30 , 57023229781013000N",
+        "Value": "-120.00",
+        "Balance": "-1550.36",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 4000.0,
+      "date": "2024-06-06",
+      "original_data": {
+        "Date": "06 Jun 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "4000.00",
+        "Balance": "2449.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 1000.0,
+      "date": "2024-06-06",
+      "original_data": {
+        "Date": "06 Jun 2024",
+        "Type": "DPC",
+        "Description": "From A/C 61567965 , MACNAMEE L, E-SAVE, Via Mobile Xfer",
+        "Value": "1000.00",
+        "Balance": "3449.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-06-06",
+      "original_data": {
+        "Date": "06 Jun 2024",
+        "Type": "D/D",
+        "Description": "OMAGH CREDIT UNION",
+        "Value": "-1000.00",
+        "Balance": "2449.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-06-07",
+      "original_data": {
+        "Date": "07 Jun 2024",
+        "Type": "DPC",
+        "Description": "To A/C 61567965 , MACNAMEE L, E-SAVE, Via Mobile Xfer",
+        "Value": "-1000.00",
+        "Balance": "1449.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-06-10",
+      "original_data": {
+        "Date": "10 Jun 2024",
+        "Type": "C/L",
+        "Description": "ULSTER BANK 08JUN",
+        "Value": "-100.00",
+        "Balance": "1349.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 310.0,
+      "date": "2024-06-11",
+      "original_data": {
+        "Date": "11 Jun 2024",
+        "Type": "CHP",
+        "Description": "GTSET2415750281 , RGHRTNO00108481 , NEWDAY LTD , . , CHAPS TFR",
+        "Value": "310.00",
+        "Balance": "1659.64",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -9.04,
+      "date": "2024-06-11",
+      "original_data": {
+        "Date": "11 Jun 2024",
+        "Type": "INT",
+        "Description": "21MAY A/C 22993673",
+        "Value": "-9.04",
+        "Balance": "1650.60",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.99,
+      "date": "2024-06-11",
+      "original_data": {
+        "Date": "11 Jun 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-40.99",
+        "Balance": "1609.61",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -727.18,
+      "date": "2024-06-12",
+      "original_data": {
+        "Date": "12 Jun 2024",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , 397495D8-C711-4 , TPP MBNA LIMITED , FP 11/06/24 10 , 08223434369813000N",
+        "Value": "-727.18",
+        "Balance": "882.43",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -10.0,
+      "date": "2024-06-12",
+      "original_data": {
+        "Date": "12 Jun 2024",
+        "Type": "POS",
+        "Description": "2404 11JUN24 , NATIONAL LOTTERY , LONDON GB",
+        "Value": "-10.00",
+        "Balance": "872.43",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-06-14",
+      "original_data": {
+        "Date": "14 Jun 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , OB240614MKJ , TPP REVOLUT LTD , FP 14/06/24 10 , 57080459824909000N",
+        "Value": "-100.00",
+        "Balance": "772.43",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-06-17",
+      "original_data": {
+        "Date": "17 Jun 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "728.43",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 4000.0,
+      "date": "2024-06-20",
+      "original_data": {
+        "Date": "20 Jun 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "4000.00",
+        "Balance": "4728.43",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -149.98,
+      "date": "2024-06-24",
+      "original_data": {
+        "Date": "24 Jun 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-149.98",
+        "Balance": "4578.45",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -390.96,
+      "date": "2024-06-24",
+      "original_data": {
+        "Date": "24 Jun 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-390.96",
+        "Balance": "4187.49",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-06-25",
+      "original_data": {
+        "Date": "25 Jun 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "4103.49",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-06-25",
+      "original_data": {
+        "Date": "25 Jun 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "3774.86",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -106.51,
+      "date": "2024-06-26",
+      "original_data": {
+        "Date": "26 Jun 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-106.51",
+        "Balance": "3668.35",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -79.04,
+      "date": "2024-06-27",
+      "original_data": {
+        "Date": "27 Jun 2024",
+        "Type": "POS",
+        "Description": "2404 26JUN24 , CAMPSIE SERVICE , STATIO , OMAGH GB",
+        "Value": "-79.04",
+        "Balance": "3589.31",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -17.0,
+      "date": "2024-06-27",
+      "original_data": {
+        "Date": "27 Jun 2024",
+        "Type": "POS",
+        "Description": "2404 26JUN24 C , MARKS&SPENCER PLC , OMAGH GB",
+        "Value": "-17.00",
+        "Balance": "3572.31",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-06-27",
+      "original_data": {
+        "Date": "27 Jun 2024",
+        "Type": "C/L",
+        "Description": "BANK OF IREL 26JUN",
+        "Value": "-100.00",
+        "Balance": "3472.31",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -19.99,
+      "date": "2024-06-27",
+      "original_data": {
+        "Date": "27 Jun 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-19.99",
+        "Balance": "3452.32",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-06-27",
+      "original_data": {
+        "Date": "27 Jun 2024",
+        "Type": "D/D",
+        "Description": "SANLAM INV & PEN",
+        "Value": "-75.00",
+        "Balance": "3377.32",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -264.05,
+      "date": "2024-06-28",
+      "original_data": {
+        "Date": "28 Jun 2024",
+        "Type": "D/D",
+        "Description": "LAND & PROPERTY SE",
+        "Value": "-264.05",
+        "Balance": "3113.27",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -325.0,
+      "date": "2024-07-01",
+      "original_data": {
+        "Date": "01 Jul 2024",
+        "Type": "DPC",
+        "Description": "Mary Adey , Fionn Rent , VIA MOBILE - PYMT , FP 01/07/24 10 , 62092131332753000N",
+        "Value": "-325.00",
+        "Balance": "2788.27",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -2000.0,
+      "date": "2024-07-01",
+      "original_data": {
+        "Date": "01 Jul 2024",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , 2C5DD297-1EB9-4 , TPP MBNA LIMITED , FP 29/06/24 10 , 08194112001786000N",
+        "Value": "-2000.00",
+        "Balance": "788.27",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -15.0,
+      "date": "2024-07-01",
+      "original_data": {
+        "Date": "01 Jul 2024",
+        "Type": "POS",
+        "Description": "2404 28JUN24 , NATIONAL LOTTERY , LONDON GB",
+        "Value": "-15.00",
+        "Balance": "773.27",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -5.0,
+      "date": "2024-07-01",
+      "original_data": {
+        "Date": "01 Jul 2024",
+        "Type": "POS",
+        "Description": "2404 28JUN24 , NATIONAL LOTTERY , LONDON GB",
+        "Value": "-5.00",
+        "Balance": "768.27",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-07-01",
+      "original_data": {
+        "Date": "01 Jul 2024",
+        "Type": "C/L",
+        "Description": "SAINSBURYS B 01JUL",
+        "Value": "-100.00",
+        "Balance": "668.27",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-07-01",
+      "original_data": {
+        "Date": "01 Jul 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "605.27",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -52.17,
+      "date": "2024-07-01",
+      "original_data": {
+        "Date": "01 Jul 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-52.17",
+        "Balance": "553.10",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -331.16,
+      "date": "2024-07-02",
+      "original_data": {
+        "Date": "02 Jul 2024",
+        "Type": "D/D",
+        "Description": "SSEAIRTRICITY",
+        "Value": "-331.16",
+        "Balance": "221.94",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-07-02",
+      "original_data": {
+        "Date": "02 Jul 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "216.99",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 5000.0,
+      "date": "2024-07-03",
+      "original_data": {
+        "Date": "03 Jul 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "5000.00",
+        "Balance": "5216.99",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1894.8,
+      "date": "2024-07-03",
+      "original_data": {
+        "Date": "03 Jul 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , 9EA26E44707D4B769F, TPP NATIONAL WESTM, FP 03/07/24 10 , 47080410055510000N",
+        "Value": "-1894.80",
+        "Balance": "3322.19",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1694.0,
+      "date": "2024-07-04",
+      "original_data": {
+        "Date": "04 Jul 2024",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , C6634868-DD1C-4 , TPP MBNA LIMITED , FP 04/07/24 10 , 31100329021555000N",
+        "Value": "-1694.00",
+        "Balance": "1628.19",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-07-04",
+      "original_data": {
+        "Date": "04 Jul 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 04/07/24 30 , 53023241791381000N",
+        "Value": "-120.00",
+        "Balance": "1508.19",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-07-08",
+      "original_data": {
+        "Date": "08 Jul 2024",
+        "Type": "D/D",
+        "Description": "OMAGH CREDIT UNION",
+        "Value": "-1000.00",
+        "Balance": "508.19",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.99,
+      "date": "2024-07-11",
+      "original_data": {
+        "Date": "11 Jul 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-40.99",
+        "Balance": "467.20",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.23,
+      "date": "2024-07-12",
+      "original_data": {
+        "Date": "12 Jul 2024",
+        "Type": "INT",
+        "Description": "23JUN A/C 22993673",
+        "Value": "-4.23",
+        "Balance": "462.97",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-07-15",
+      "original_data": {
+        "Date": "15 Jul 2024",
+        "Type": "DPC",
+        "Description": "LS MAC NAMEE , ABBY , VIA MOBILE - PYMT , FP 13/07/24 10 , 30005233599701000N",
+        "Value": "-1000.00",
+        "Balance": "-537.03",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-07-15",
+      "original_data": {
+        "Date": "15 Jul 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , OB240714NW0 , TPP REVOLUT LTD , FP 14/07/24 10 , 61174038937494000N",
+        "Value": "-100.00",
+        "Balance": "-637.03",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-07-15",
+      "original_data": {
+        "Date": "15 Jul 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "-681.03",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -93.98,
+      "date": "2024-07-22",
+      "original_data": {
+        "Date": "22 Jul 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-93.98",
+        "Balance": "-775.01",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -269.88,
+      "date": "2024-07-22",
+      "original_data": {
+        "Date": "22 Jul 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-269.88",
+        "Balance": "-1044.89",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-07-23",
+      "original_data": {
+        "Date": "23 Jul 2024",
+        "Type": "DPC",
+        "Description": "MISS N E MAC NAMEE, Shopping , VIA MOBILE - PYMT , FP 22/07/24 10 , 48191655100428000N",
+        "Value": "-100.00",
+        "Balance": "-1144.89",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 40.0,
+      "date": "2024-07-24",
+      "original_data": {
+        "Date": "24 Jul 2024",
+        "Type": "BAC",
+        "Description": "HOPKINS BRIDGET , 07043640417019 , FP 24/07/24 1139 , FP24206O14746873",
+        "Value": "40.00",
+        "Balance": "-1104.89",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3500.0,
+      "date": "2024-07-24",
+      "original_data": {
+        "Date": "24 Jul 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3500.00",
+        "Balance": "2395.11",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-07-25",
+      "original_data": {
+        "Date": "25 Jul 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "2311.11",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-07-25",
+      "original_data": {
+        "Date": "25 Jul 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "1982.48",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -85.31,
+      "date": "2024-07-26",
+      "original_data": {
+        "Date": "26 Jul 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-85.31",
+        "Balance": "1897.17",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-07-29",
+      "original_data": {
+        "Date": "29 Jul 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , OBAY19486XH7WZUI4 , TPP REVOLUT LTD , FP 28/07/24 10 , 35155746936078000N",
+        "Value": "-100.00",
+        "Balance": "1797.17",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -149.98,
+      "date": "2024-07-29",
+      "original_data": {
+        "Date": "29 Jul 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-149.98",
+        "Balance": "1647.19",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -19.99,
+      "date": "2024-07-29",
+      "original_data": {
+        "Date": "29 Jul 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-19.99",
+        "Balance": "1627.20",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-07-29",
+      "original_data": {
+        "Date": "29 Jul 2024",
+        "Type": "D/D",
+        "Description": "SANLAM INV & PEN",
+        "Value": "-75.00",
+        "Balance": "1552.20",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -264.05,
+      "date": "2024-07-31",
+      "original_data": {
+        "Date": "31 Jul 2024",
+        "Type": "D/D",
+        "Description": "LAND & PROPERTY SE",
+        "Value": "-264.05",
+        "Balance": "1288.15",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -650.0,
+      "date": "2024-08-01",
+      "original_data": {
+        "Date": "01 Aug 2024",
+        "Type": "DPC",
+        "Description": "MARY ADEY , FIONN RENT , VIA MOBILE - PYMT , FP 01/08/24 10 , 01114127874711000N",
+        "Value": "-650.00",
+        "Balance": "638.15",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -272.0,
+      "date": "2024-08-01",
+      "original_data": {
+        "Date": "01 Aug 2024",
+        "Type": "DPC",
+        "Description": "HOMECARE SYSTEMS L, MAC NAMEE 6209 , VIA MOBILE - PYMT , FP 01/08/24 10 , 08131243145532000N",
+        "Value": "-272.00",
+        "Balance": "366.15",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-08-01",
+      "original_data": {
+        "Date": "01 Aug 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "303.15",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-08-01",
+      "original_data": {
+        "Date": "01 Aug 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "298.20",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -52.15,
+      "date": "2024-08-01",
+      "original_data": {
+        "Date": "01 Aug 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-52.15",
+        "Balance": "246.05",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -500.0,
+      "date": "2024-08-05",
+      "original_data": {
+        "Date": "05 Aug 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , OBAV43AG35H5ZOYPP , TPP REVOLUT LTD , FP 05/08/24 10 , 17162438812192000N",
+        "Value": "-500.00",
+        "Balance": "-253.95",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-08-05",
+      "original_data": {
+        "Date": "05 Aug 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 05/08/24 30 , 45013403947509000N",
+        "Value": "-120.00",
+        "Balance": "-373.95",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-08-07",
+      "original_data": {
+        "Date": "07 Aug 2024",
+        "Type": "D/D",
+        "Description": "OMAGH CREDIT UNION",
+        "Value": "-1000.00",
+        "Balance": "-1373.95",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.41,
+      "date": "2024-08-09",
+      "original_data": {
+        "Date": "09 Aug 2024",
+        "Type": "INT",
+        "Description": "21JUL A/C 22993673",
+        "Value": "-4.41",
+        "Balance": "-1378.36",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 1000.0,
+      "date": "2024-08-12",
+      "original_data": {
+        "Date": "12 Aug 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "1000.00",
+        "Balance": "-378.36",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.99,
+      "date": "2024-08-12",
+      "original_data": {
+        "Date": "12 Aug 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-40.99",
+        "Balance": "-419.35",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-08-13",
+      "original_data": {
+        "Date": "13 Aug 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3000.00",
+        "Balance": "2580.65",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -2780.0,
+      "date": "2024-08-14",
+      "original_data": {
+        "Date": "14 Aug 2024",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , 3E86B282-C5B8-4 , TPP MBNA LIMITED , FP 14/08/24 10 , 07111859215150000N",
+        "Value": "-2780.00",
+        "Balance": "-199.35",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-08-15",
+      "original_data": {
+        "Date": "15 Aug 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "-243.35",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -774.57,
+      "date": "2024-08-19",
+      "original_data": {
+        "Date": "19 Aug 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-774.57",
+        "Balance": "-1017.92",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-08-27",
+      "original_data": {
+        "Date": "27 Aug 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , OBA0VCBCZKPB067A5 , TPP REVOLUT LTD , FP 25/08/24 10 , 56121940516878000N",
+        "Value": "-100.00",
+        "Balance": "-1117.92",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-08-27",
+      "original_data": {
+        "Date": "27 Aug 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "-1201.92",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -149.98,
+      "date": "2024-08-27",
+      "original_data": {
+        "Date": "27 Aug 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-149.98",
+        "Balance": "-1351.90",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-08-27",
+      "original_data": {
+        "Date": "27 Aug 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "-1680.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-08-27",
+      "original_data": {
+        "Date": "27 Aug 2024",
+        "Type": "D/D",
+        "Description": "CASFS LTD",
+        "Value": "-75.00",
+        "Balance": "-1755.53",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3500.0,
+      "date": "2024-08-28",
+      "original_data": {
+        "Date": "28 Aug 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3500.00",
+        "Balance": "1744.47",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -19.99,
+      "date": "2024-08-29",
+      "original_data": {
+        "Date": "29 Aug 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-19.99",
+        "Balance": "1724.48",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -61.89,
+      "date": "2024-08-29",
+      "original_data": {
+        "Date": "29 Aug 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-61.89",
+        "Balance": "1662.59",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -117.64,
+      "date": "2024-08-29",
+      "original_data": {
+        "Date": "29 Aug 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-117.64",
+        "Balance": "1544.95",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -2029.5,
+      "date": "2024-08-30",
+      "original_data": {
+        "Date": "30 Aug 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , MOXVYY9XPLLHZH1AK2, TPP NATIONAL WESTM, FP 30/08/24 10 , 33102956519717000N",
+        "Value": "-2029.50",
+        "Balance": "-484.55",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -264.05,
+      "date": "2024-08-30",
+      "original_data": {
+        "Date": "30 Aug 2024",
+        "Type": "D/D",
+        "Description": "LAND & PROPERTY SE",
+        "Value": "-264.05",
+        "Balance": "-748.60",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -650.0,
+      "date": "2024-09-02",
+      "original_data": {
+        "Date": "02 Sep 2024",
+        "Type": "S/O",
+        "Description": "MARY ADEY , FP 02/09/24 30 , 27013944185529000N",
+        "Value": "-650.00",
+        "Balance": "-1398.60",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-09-02",
+      "original_data": {
+        "Date": "02 Sep 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "-1461.60",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -378.71,
+      "date": "2024-09-02",
+      "original_data": {
+        "Date": "02 Sep 2024",
+        "Type": "D/D",
+        "Description": "SSEAIRTRICITY",
+        "Value": "-378.71",
+        "Balance": "-1840.31",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -169.5,
+      "date": "2024-09-02",
+      "original_data": {
+        "Date": "02 Sep 2024",
+        "Type": "D/D",
+        "Description": "TV LICENCE DDA",
+        "Value": "-169.50",
+        "Balance": "-2009.81",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-09-02",
+      "original_data": {
+        "Date": "02 Sep 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "-2014.76",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -52.15,
+      "date": "2024-09-02",
+      "original_data": {
+        "Date": "02 Sep 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-52.15",
+        "Balance": "-2066.91",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-09-04",
+      "original_data": {
+        "Date": "04 Sep 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 04/09/24 30 , 54023222025615000N",
+        "Value": "-120.00",
+        "Balance": "-2186.91",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 1200.0,
+      "date": "2024-09-06",
+      "original_data": {
+        "Date": "06 Sep 2024",
+        "Type": "DPC",
+        "Description": "From A/C 61567965 , MACNAMEE L, E-SAVE, Via Mobile Xfer",
+        "Value": "1200.00",
+        "Balance": "-986.91",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 4000.0,
+      "date": "2024-09-06",
+      "original_data": {
+        "Date": "06 Sep 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "4000.00",
+        "Balance": "3013.09",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-09-06",
+      "original_data": {
+        "Date": "06 Sep 2024",
+        "Type": "D/D",
+        "Description": "OMAGH CREDIT UNION",
+        "Value": "-1000.00",
+        "Balance": "2013.09",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -80.0,
+      "date": "2024-09-09",
+      "original_data": {
+        "Date": "09 Sep 2024",
+        "Type": "DPC",
+        "Description": "Londonplumberbiz L, 46 Brookstone Ct , VIA MOBILE - PYMT",
+        "Value": "-80.00",
+        "Balance": "1933.09",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1616.96,
+      "date": "2024-09-09",
+      "original_data": {
+        "Date": "09 Sep 2024",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , F0F6CFDA-7C97-4 , TPP MBNA LIMITED , FP 09/09/24 10 , 37143650328409000N",
+        "Value": "-1616.96",
+        "Balance": "316.13",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -115.8,
+      "date": "2024-09-09",
+      "original_data": {
+        "Date": "09 Sep 2024",
+        "Type": "DPC",
+        "Description": "Plumber Peckham , 0500 , VIA MOBILE - PYMT , FP 09/09/24 10 , 07135013066791000N",
+        "Value": "-115.80",
+        "Balance": "200.33",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -13.38,
+      "date": "2024-09-11",
+      "original_data": {
+        "Date": "11 Sep 2024",
+        "Type": "INT",
+        "Description": "21AUG A/C 22993673",
+        "Value": "-13.38",
+        "Balance": "186.95",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.99,
+      "date": "2024-09-11",
+      "original_data": {
+        "Date": "11 Sep 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-40.99",
+        "Balance": "145.96",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -20.0,
+      "date": "2024-09-16",
+      "original_data": {
+        "Date": "16 Sep 2024",
+        "Type": "POS",
+        "Description": "2404 13SEP24 , NATIONAL LOTTERY , LONDON GB",
+        "Value": "-20.00",
+        "Balance": "125.96",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-09-16",
+      "original_data": {
+        "Date": "16 Sep 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "81.96",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-09-19",
+      "original_data": {
+        "Date": "19 Sep 2024",
+        "Type": "C/L",
+        "Description": "BMACH 18SEP",
+        "Value": "-100.00",
+        "Balance": "-18.04",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -100.0,
+      "date": "2024-09-20",
+      "original_data": {
+        "Date": "20 Sep 2024",
+        "Type": "DPC",
+        "Description": "LYNDA MACNAMEE , OBAW3K0SHZ53OMMYX , TPP REVOLUT LTD , FP 19/09/24 10 , 31224711938212000N",
+        "Value": "-100.00",
+        "Balance": "-118.04",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -20.0,
+      "date": "2024-09-23",
+      "original_data": {
+        "Date": "23 Sep 2024",
+        "Type": "POS",
+        "Description": "2404 20SEP24 , NATIONAL LOTTERY , LONDON GB",
+        "Value": "-20.00",
+        "Balance": "-138.04",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -50.95,
+      "date": "2024-09-23",
+      "original_data": {
+        "Date": "23 Sep 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-50.95",
+        "Balance": "-188.99",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -149.98,
+      "date": "2024-09-24",
+      "original_data": {
+        "Date": "24 Sep 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-149.98",
+        "Balance": "-338.97",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-09-25",
+      "original_data": {
+        "Date": "25 Sep 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "-422.97",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-09-25",
+      "original_data": {
+        "Date": "25 Sep 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "-751.60",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 50.0,
+      "date": "2024-09-26",
+      "original_data": {
+        "Date": "26 Sep 2024",
+        "Type": "BAC",
+        "Description": "HOPKINS VALERIE , LYNN , FP 26/09/24 1009 , FP24270O11107427",
+        "Value": "50.00",
+        "Balance": "-701.60",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -95.69,
+      "date": "2024-09-26",
+      "original_data": {
+        "Date": "26 Sep 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-95.69",
+        "Balance": "-797.29",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -19.99,
+      "date": "2024-09-27",
+      "original_data": {
+        "Date": "27 Sep 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-19.99",
+        "Balance": "-817.28",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-09-27",
+      "original_data": {
+        "Date": "27 Sep 2024",
+        "Type": "D/D",
+        "Description": "CASFS LTD",
+        "Value": "-75.00",
+        "Balance": "-892.28",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 2000.0,
+      "date": "2024-09-30",
+      "original_data": {
+        "Date": "30 Sep 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "2000.00",
+        "Balance": "1107.72",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 7.18,
+      "date": "2024-09-30",
+      "original_data": {
+        "Date": "30 Sep 2024",
+        "Type": "NDC",
+        "Description": "IDS PLC",
+        "Value": "7.18",
+        "Balance": "1114.90",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -264.05,
+      "date": "2024-09-30",
+      "original_data": {
+        "Date": "30 Sep 2024",
+        "Type": "D/D",
+        "Description": "LAND & PROPERTY SE",
+        "Value": "-264.05",
+        "Balance": "850.85",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -650.0,
+      "date": "2024-10-01",
+      "original_data": {
+        "Date": "01 Oct 2024",
+        "Type": "S/O",
+        "Description": "MARY ADEY , FP 01/10/24 30 , 58023956931463000N",
+        "Value": "-650.00",
+        "Balance": "200.85",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-10-01",
+      "original_data": {
+        "Date": "01 Oct 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "137.85",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -52.15,
+      "date": "2024-10-01",
+      "original_data": {
+        "Date": "01 Oct 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-52.15",
+        "Balance": "85.70",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 5000.0,
+      "date": "2024-10-02",
+      "original_data": {
+        "Date": "02 Oct 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "5000.00",
+        "Balance": "5085.70",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-10-02",
+      "original_data": {
+        "Date": "02 Oct 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "5080.75",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -3041.76,
+      "date": "2024-10-03",
+      "original_data": {
+        "Date": "03 Oct 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , 24CATETNQWKEZ5WTWI, JDH4M4R , TPP NATIONAL WESTM, FP 03/10/24 10 , 15082440581774000N",
+        "Value": "-3041.76",
+        "Balance": "2038.99",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-10-04",
+      "original_data": {
+        "Date": "04 Oct 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 04/10/24 30 , 33023304887128000N",
+        "Value": "-120.00",
+        "Balance": "1918.99",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-10-08",
+      "original_data": {
+        "Date": "08 Oct 2024",
+        "Type": "D/D",
+        "Description": "OMAGH CREDIT UNION",
+        "Value": "-1000.00",
+        "Balance": "918.99",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -16.62,
+      "date": "2024-10-11",
+      "original_data": {
+        "Date": "11 Oct 2024",
+        "Type": "INT",
+        "Description": "22SEP A/C 22993673",
+        "Value": "-16.62",
+        "Balance": "902.37",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1107.0,
+      "date": "2024-10-11",
+      "original_data": {
+        "Date": "11 Oct 2024",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , 366AADF3-451D-4 , TPP MBNA LIMITED , FP 11/10/24 10 , 42134137333318000N",
+        "Value": "-1107.00",
+        "Balance": "-204.63",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.99,
+      "date": "2024-10-11",
+      "original_data": {
+        "Date": "11 Oct 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-40.99",
+        "Balance": "-245.62",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-10-14",
+      "original_data": {
+        "Date": "14 Oct 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3000.00",
+        "Balance": "2754.38",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -490.0,
+      "date": "2024-10-14",
+      "original_data": {
+        "Date": "14 Oct 2024",
+        "Type": "DPC",
+        "Description": "MCHUGH FUELS , MAC020/ OL171122 , VIA MOBILE - PYMT , FP 14/10/24 10 , 19141356105787000N",
+        "Value": "-490.00",
+        "Balance": "2264.38",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-10-15",
+      "original_data": {
+        "Date": "15 Oct 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "2220.38",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -110.0,
+      "date": "2024-10-21",
+      "original_data": {
+        "Date": "21 Oct 2024",
+        "Type": "DPC",
+        "Description": "Valerie Hopkins , Birthday Trip , VIA MOBILE - PYMT , FP 21/10/24 10 , 48174906299685000N",
+        "Value": "-110.00",
+        "Balance": "2110.38",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.94,
+      "date": "2024-10-21",
+      "original_data": {
+        "Date": "21 Oct 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-63.94",
+        "Balance": "2046.44",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -170.0,
+      "date": "2024-10-23",
+      "original_data": {
+        "Date": "23 Oct 2024",
+        "Type": "DPC",
+        "Description": "MISS O C MACNAMEE , LOVE YOU , VIA MOBILE - PYMT , FP 23/10/24 10 , 32094126281092000N",
+        "Value": "-170.00",
+        "Balance": "1876.44",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -50.0,
+      "date": "2024-10-24",
+      "original_data": {
+        "Date": "24 Oct 2024",
+        "Type": "DPC",
+        "Description": "CATHERINE FORD , CAF , VIA MOBILE - PYMT , FP 24/10/24 10 , 02113507456284000N",
+        "Value": "-50.00",
+        "Balance": "1826.44",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -149.98,
+      "date": "2024-10-24",
+      "original_data": {
+        "Date": "24 Oct 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-149.98",
+        "Balance": "1676.46",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-10-25",
+      "original_data": {
+        "Date": "25 Oct 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "1592.46",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-10-25",
+      "original_data": {
+        "Date": "25 Oct 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "1263.83",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-10-28",
+      "original_data": {
+        "Date": "28 Oct 2024",
+        "Type": "D/D",
+        "Description": "CASFS LTD",
+        "Value": "-75.00",
+        "Balance": "1188.83",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -103.21,
+      "date": "2024-10-28",
+      "original_data": {
+        "Date": "28 Oct 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-103.21",
+        "Balance": "1085.62",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -19.99,
+      "date": "2024-10-29",
+      "original_data": {
+        "Date": "29 Oct 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-19.99",
+        "Balance": "1065.63",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -264.05,
+      "date": "2024-10-31",
+      "original_data": {
+        "Date": "31 Oct 2024",
+        "Type": "D/D",
+        "Description": "LAND & PROPERTY SE",
+        "Value": "-264.05",
+        "Balance": "801.58",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -650.0,
+      "date": "2024-11-01",
+      "original_data": {
+        "Date": "01 Nov 2024",
+        "Type": "S/O",
+        "Description": "MARY ADEY , FP 01/11/24 30 , 43024025541409000N",
+        "Value": "-650.00",
+        "Balance": "151.58",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-11-01",
+      "original_data": {
+        "Date": "01 Nov 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "88.58",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -373.3,
+      "date": "2024-11-01",
+      "original_data": {
+        "Date": "01 Nov 2024",
+        "Type": "D/D",
+        "Description": "SSEAIRTRICITY",
+        "Value": "-373.30",
+        "Balance": "-284.72",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-11-01",
+      "original_data": {
+        "Date": "01 Nov 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "-289.67",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -52.15,
+      "date": "2024-11-01",
+      "original_data": {
+        "Date": "01 Nov 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-52.15",
+        "Balance": "-341.82",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-11-04",
+      "original_data": {
+        "Date": "04 Nov 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 04/11/24 30 , 27013318340519000N",
+        "Value": "-120.00",
+        "Balance": "-461.82",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 500.0,
+      "date": "2024-11-05",
+      "original_data": {
+        "Date": "05 Nov 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "500.00",
+        "Balance": "38.18",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1618.68,
+      "date": "2024-11-05",
+      "original_data": {
+        "Date": "05 Nov 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , 49YN09KDN4AOX5RU3L, OMJ7IIF , TPP NATIONAL WESTM, FP 05/11/24 10 , 57112757586734000N",
+        "Value": "-1618.68",
+        "Balance": "-1580.50",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -5.08,
+      "date": "2024-11-11",
+      "original_data": {
+        "Date": "11 Nov 2024",
+        "Type": "INT",
+        "Description": "21OCT A/C 22993673",
+        "Value": "-5.08",
+        "Balance": "-1585.58",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.99,
+      "date": "2024-11-11",
+      "original_data": {
+        "Date": "11 Nov 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-40.99",
+        "Balance": "-1626.57",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -707.73,
+      "date": "2024-11-12",
+      "original_data": {
+        "Date": "12 Nov 2024",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , B27F9EE8-6D82-4 , TPP MBNA LIMITED , FP 11/11/24 10 , 12213753458730000N",
+        "Value": "-707.73",
+        "Balance": "-2334.30",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 1.42,
+      "date": "2024-11-15",
+      "original_data": {
+        "Date": "15 Nov 2024",
+        "Type": "NDC",
+        "Description": "BANCO SANTANDER",
+        "Value": "1.42",
+        "Balance": "-2332.88",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-11-15",
+      "original_data": {
+        "Date": "15 Nov 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "-2376.88",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-11-18",
+      "original_data": {
+        "Date": "18 Nov 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3000.00",
+        "Balance": "623.12",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -573.8,
+      "date": "2024-11-19",
+      "original_data": {
+        "Date": "19 Nov 2024",
+        "Type": "POS",
+        "Description": "2404 18NOV24 , BARCLAYCARD , NORTHAMPTON GB",
+        "Value": "-573.80",
+        "Balance": "49.32",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -33.97,
+      "date": "2024-11-19",
+      "original_data": {
+        "Date": "19 Nov 2024",
+        "Type": "POS",
+        "Description": "2404 18NOV24 , BARCLAYCARD , NORTHAMPTON GB",
+        "Value": "-33.97",
+        "Balance": "15.35",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -33.97,
+      "date": "2024-11-19",
+      "original_data": {
+        "Date": "19 Nov 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-33.97",
+        "Balance": "-18.62",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -200.0,
+      "date": "2024-11-22",
+      "original_data": {
+        "Date": "22 Nov 2024",
+        "Type": "DPC",
+        "Description": "MISS O C MACNAMEE , LOVE YOU , VIA MOBILE - PYMT , FP 22/11/24 10 , 05121209649349000N",
+        "Value": "-200.00",
+        "Balance": "-218.62",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-11-25",
+      "original_data": {
+        "Date": "25 Nov 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "-302.62",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -149.98,
+      "date": "2024-11-25",
+      "original_data": {
+        "Date": "25 Nov 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-149.98",
+        "Balance": "-452.60",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-11-25",
+      "original_data": {
+        "Date": "25 Nov 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "-781.23",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -19.99,
+      "date": "2024-11-27",
+      "original_data": {
+        "Date": "27 Nov 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-19.99",
+        "Balance": "-801.22",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-11-27",
+      "original_data": {
+        "Date": "27 Nov 2024",
+        "Type": "D/D",
+        "Description": "CASFS LTD",
+        "Value": "-75.00",
+        "Balance": "-876.22",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -101.6,
+      "date": "2024-11-27",
+      "original_data": {
+        "Date": "27 Nov 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-101.60",
+        "Balance": "-977.82",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -72.0,
+      "date": "2024-11-29",
+      "original_data": {
+        "Date": "29 Nov 2024",
+        "Type": "DPC",
+        "Description": "VALERIE HOPKINS , Christmas gifts , VIA MOBILE - PYMT , FP 29/11/24 10 , 01083336884261000N",
+        "Value": "-72.00",
+        "Balance": "-1049.82",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -264.05,
+      "date": "2024-11-29",
+      "original_data": {
+        "Date": "29 Nov 2024",
+        "Type": "D/D",
+        "Description": "LAND & PROPERTY SE",
+        "Value": "-264.05",
+        "Balance": "-1313.87",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-12-02",
+      "original_data": {
+        "Date": "02 Dec 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3000.00",
+        "Balance": "1686.13",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -650.0,
+      "date": "2024-12-02",
+      "original_data": {
+        "Date": "02 Dec 2024",
+        "Type": "S/O",
+        "Description": "MARY ADEY , FP 02/12/24 30 , 04013954495316000N",
+        "Value": "-650.00",
+        "Balance": "1036.13",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2024-12-02",
+      "original_data": {
+        "Date": "02 Dec 2024",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "973.13",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2024-12-02",
+      "original_data": {
+        "Date": "02 Dec 2024",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "968.18",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -52.15,
+      "date": "2024-12-02",
+      "original_data": {
+        "Date": "02 Dec 2024",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-52.15",
+        "Balance": "916.03",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -315.0,
+      "date": "2024-12-03",
+      "original_data": {
+        "Date": "03 Dec 2024",
+        "Type": "DPC",
+        "Description": "Ian short plumbing, 3077 , VIA MOBILE - PYMT , FP 03/12/24 10 , 03162734365342000N",
+        "Value": "-315.00",
+        "Balance": "601.03",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2024-12-04",
+      "original_data": {
+        "Date": "04 Dec 2024",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 04/12/24 30 , 36023208158856000N",
+        "Value": "-120.00",
+        "Balance": "481.03",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -997.35,
+      "date": "2024-12-05",
+      "original_data": {
+        "Date": "05 Dec 2024",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , 4ZY3EK5SNSVLWEPHJH, 700RXQ , TPP NATIONAL WESTM, FP 05/12/24 10 , 19141441190522000N",
+        "Value": "-997.35",
+        "Balance": "-516.32",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-12-06",
+      "original_data": {
+        "Date": "06 Dec 2024",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3000.00",
+        "Balance": "2483.68",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-12-06",
+      "original_data": {
+        "Date": "06 Dec 2024",
+        "Type": "D/D",
+        "Description": "OMAGH CREDIT UNION",
+        "Value": "-1000.00",
+        "Balance": "1483.68",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.99,
+      "date": "2024-12-11",
+      "original_data": {
+        "Date": "11 Dec 2024",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-40.99",
+        "Balance": "1442.69",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -24.77,
+      "date": "2024-12-12",
+      "original_data": {
+        "Date": "12 Dec 2024",
+        "Type": "INT",
+        "Description": "21NOV A/C 22993673",
+        "Value": "-24.77",
+        "Balance": "1417.92",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1.55,
+      "date": "2024-12-12",
+      "original_data": {
+        "Date": "12 Dec 2024",
+        "Type": "CHG",
+        "Description": "UNPAID TRANSAC FEE, 21NOV A/C 22993673",
+        "Value": "-1.55",
+        "Balance": "1416.37",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -85.07,
+      "date": "2024-12-13",
+      "original_data": {
+        "Date": "13 Dec 2024",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , 8D78B32B-239C-4 , TPP MBNA LIMITED , FP 12/12/24 10 , 03215523228324000N",
+        "Value": "-85.07",
+        "Balance": "1331.30",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 200.0,
+      "date": "2024-12-16",
+      "original_data": {
+        "Date": "16 Dec 2024",
+        "Type": "BAC",
+        "Description": "HOPKINS BRIDGET , 07043640417019 , FP 16/12/24 1311 , FP24351O05742949",
+        "Value": "200.00",
+        "Balance": "1531.30",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2024-12-16",
+      "original_data": {
+        "Date": "16 Dec 2024",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "1487.30",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -440.0,
+      "date": "2024-12-19",
+      "original_data": {
+        "Date": "19 Dec 2024",
+        "Type": "DPC",
+        "Description": "MISS N E MAC NAMEE, Repayment , VIA MOBILE - PYMT , FP 19/12/24 10 , 39124838011378000N",
+        "Value": "-440.00",
+        "Balance": "1047.30",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -395.0,
+      "date": "2024-12-19",
+      "original_data": {
+        "Date": "19 Dec 2024",
+        "Type": "POS",
+        "Description": "2404 18DEC24 , PAYPAL *ADD TO BAL, 35314369001 GB",
+        "Value": "-395.00",
+        "Balance": "652.30",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -37.95,
+      "date": "2024-12-23",
+      "original_data": {
+        "Date": "23 Dec 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-37.95",
+        "Balance": "614.35",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -149.98,
+      "date": "2024-12-24",
+      "original_data": {
+        "Date": "24 Dec 2024",
+        "Type": "D/D",
+        "Description": "NFU MUTUAL INS-BC",
+        "Value": "-149.98",
+        "Balance": "464.37",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -84.0,
+      "date": "2024-12-27",
+      "original_data": {
+        "Date": "27 Dec 2024",
+        "Type": "S/O",
+        "Description": "MRS L MACNAMEE",
+        "Value": "-84.00",
+        "Balance": "380.37",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -328.63,
+      "date": "2024-12-27",
+      "original_data": {
+        "Date": "27 Dec 2024",
+        "Type": "D/D",
+        "Description": "AVIVA LIFE",
+        "Value": "-328.63",
+        "Balance": "51.74",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -75.0,
+      "date": "2024-12-27",
+      "original_data": {
+        "Date": "27 Dec 2024",
+        "Type": "D/D",
+        "Description": "CASFS LTD",
+        "Value": "-75.00",
+        "Balance": "-23.26",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -94.05,
+      "date": "2024-12-30",
+      "original_data": {
+        "Date": "30 Dec 2024",
+        "Type": "D/D",
+        "Description": "VODAFONE LTD",
+        "Value": "-94.05",
+        "Balance": "-117.31",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -264.05,
+      "date": "2024-12-31",
+      "original_data": {
+        "Date": "31 Dec 2024",
+        "Type": "D/D",
+        "Description": "LAND & PROPERTY SE",
+        "Value": "-264.05",
+        "Balance": "-381.36",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -19.99,
+      "date": "2024-12-31",
+      "original_data": {
+        "Date": "31 Dec 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-19.99",
+        "Balance": "-401.35",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3000.00",
+        "Balance": "2598.65",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -2.44,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 01JAN25 C , APPLEGREEN LIFFORD, 923 , LIFFORD IE , EUR 2.85, VRATE 1.2025, N-S TRN FEE 0.07",
+        "Value": "-2.44",
+        "Balance": "2596.21",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -12.96,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 31DEC24 C , MCBRIDE RETAIL , MULLAGH , MCBRIDE VIVO GB",
+        "Value": "-12.96",
+        "Balance": "2583.25",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -650.0,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "S/O",
+        "Description": "MARY ADEY , FP 02/01/25 30 , 61013943724765000N",
+        "Value": "-650.00",
+        "Balance": "1933.25",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -63.0,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "D/D",
+        "Description": "ARTEMIS",
+        "Value": "-63.00",
+        "Balance": "1870.25",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -440.16,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "D/D",
+        "Description": "SSEAIRTRICITY",
+        "Value": "-440.16",
+        "Balance": "1430.09",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.95,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "D/D",
+        "Description": "TALKMOBILE",
+        "Value": "-4.95",
+        "Balance": "1425.14",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -52.15,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "D/D",
+        "Description": "PET PLAN LTD PREM",
+        "Value": "-52.15",
+        "Balance": "1372.99",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -74.28,
+      "date": "2025-01-03",
+      "original_data": {
+        "Date": "03 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 02JAN25 C , GFS OMAGH LIMITED , TYRONE GB",
+        "Value": "-74.28",
+        "Balance": "1298.71",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -5.25,
+      "date": "2025-01-03",
+      "original_data": {
+        "Date": "03 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 02JAN25 C , MCBRIDE RETAIL , MULLAGH , MCBRIDE VIVO GB",
+        "Value": "-5.25",
+        "Balance": "1293.46",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2025-01-06",
+      "original_data": {
+        "Date": "06 Jan 2025",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "3000.00",
+        "Balance": "4293.46",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -19.8,
+      "date": "2025-01-06",
+      "original_data": {
+        "Date": "06 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 05JAN25 C , OMNIPLEX OMAGH , OMAGH GB",
+        "Value": "-19.80",
+        "Balance": "4273.66",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -12.85,
+      "date": "2025-01-06",
+      "original_data": {
+        "Date": "06 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 03JAN25 C , MCBRIDE RETAIL , MULLAGH , MCBRIDE VIVO GB",
+        "Value": "-12.85",
+        "Balance": "4260.81",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -120.0,
+      "date": "2025-01-06",
+      "original_data": {
+        "Date": "06 Jan 2025",
+        "Type": "S/O",
+        "Description": "F MAC NAMEE , FP 06/01/25 30 , 01013314892296000N",
+        "Value": "-120.00",
+        "Balance": "4140.81",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -3400.59,
+      "date": "2025-01-07",
+      "original_data": {
+        "Date": "07 Jan 2025",
+        "Type": "DPC",
+        "Description": "JOHN LEWIS , CDBTW7DS9XR6AUQQUT, Z6OYND7 , TPP NATIONAL WESTM, FP 06/01/25 10 , 19220209035142000N",
+        "Value": "-3400.59",
+        "Balance": "740.22",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": 2000.0,
+      "date": "2025-01-08",
+      "original_data": {
+        "Date": "08 Jan 2025",
+        "Type": "DPC",
+        "Description": "From A/C 22903216 , MACNAMEE RJG , Via Mobile Xfer",
+        "Value": "2000.00",
+        "Balance": "2740.22",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -236.0,
+      "date": "2025-01-08",
+      "original_data": {
+        "Date": "08 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 07JAN25 , SP SUREFIRE WOOD , NI , TEMPO, FERMAN GB",
+        "Value": "-236.00",
+        "Balance": "2504.22",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2025-01-08",
+      "original_data": {
+        "Date": "08 Jan 2025",
+        "Type": "D/D",
+        "Description": "OMAGH CREDIT UNION",
+        "Value": "-1000.00",
+        "Balance": "1504.22",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -523.24,
+      "date": "2025-01-09",
+      "original_data": {
+        "Date": "09 Jan 2025",
+        "Type": "DPC",
+        "Description": "MCHUGH FUELS , MAC020/ OL174993 , VIA MOBILE - PYMT , FP 09/01/25 10 , 61124639589958000N",
+        "Value": "-523.24",
+        "Balance": "980.98",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -54.96,
+      "date": "2025-01-09",
+      "original_data": {
+        "Date": "09 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 08JAN25 C , MARKS&SPENCER PLC , OMAGH GB",
+        "Value": "-54.96",
+        "Balance": "926.02",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -5.97,
+      "date": "2025-01-09",
+      "original_data": {
+        "Date": "09 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 08JAN25 C , MCBRIDE RETAIL , MULLAGH , MCBRIDE VIVO GB",
+        "Value": "-5.97",
+        "Balance": "920.05",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -7.98,
+      "date": "2025-01-10",
+      "original_data": {
+        "Date": "10 Jan 2025",
+        "Type": "INT",
+        "Description": "22DEC A/C 22993673",
+        "Value": "-7.98",
+        "Balance": "912.07",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -541.0,
+      "date": "2025-01-13",
+      "original_data": {
+        "Date": "13 Jan 2025",
+        "Type": "DPC",
+        "Description": "MBNA MASTERCARD , F7CE4458-E808-4 , TPP MBNA LIMITED , FP 12/01/25 10 , 29100835137644000N",
+        "Value": "-541.00",
+        "Balance": "371.07",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -4.5,
+      "date": "2025-01-13",
+      "original_data": {
+        "Date": "13 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 11JAN25 C , HOMEBASE , OMAGH GB",
+        "Value": "-4.50",
+        "Balance": "366.57",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -40.99,
+      "date": "2025-01-13",
+      "original_data": {
+        "Date": "13 Jan 2025",
+        "Type": "D/D",
+        "Description": "BT GROUP PLC",
+        "Value": "-40.99",
+        "Balance": "325.58",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -24.2,
+      "date": "2025-01-15",
+      "original_data": {
+        "Date": "15 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 14JAN25 C , MARKS&SPENCER PLC , OMAGH GB",
+        "Value": "-24.20",
+        "Balance": "301.38",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -44.0,
+      "date": "2025-01-15",
+      "original_data": {
+        "Date": "15 Jan 2025",
+        "Type": "D/D",
+        "Description": "MBUK",
+        "Value": "-44.00",
+        "Balance": "257.38",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    },
+    {
+      "amount": -3.5,
+      "date": "2025-01-16",
+      "original_data": {
+        "Date": "16 Jan 2025",
+        "Type": "POS",
+        "Description": "2404 15JAN25 C , SPAR OMAGH , OMAGH GB",
+        "Value": "-3.50",
+        "Balance": "253.88",
+        "Account Name": "MACNAMEE RJG & S",
+        "Account Number": "600423-22993673"
+      }
+    }
+  ],
+  "missing_from_json": [],
+  "extra_in_json": [
+    {
+      "amount": -44.0,
+      "date": "2024-01-15",
+      "original_data": {
+        "id": 1451623970431310251,
+        "account_id": 1451623946523777405,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "posted",
+        "made_on": "2024-01-15",
+        "amount": -44.0,
+        "currency_code": "GBP",
+        "description": "MBUK",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "id": "861859F59D11C314979013F8C2E66BFE2D12333635B25DE6DEE3601D26EBC75F06058F779FE401E9AC1C46A8872ACAFD",
+          "time": "00:00:00",
+          "type": "D/D",
+          "closing_balance": 214.65,
+          "account_balance_snapshot": 912.07,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-11T09:03:58.000Z",
+        "updated_at": "2025-01-11T09:03:58.000Z"
+      }
+    },
+    {
+      "amount": -800.0,
+      "date": "2024-01-15",
+      "original_data": {
+        "id": 1451623970439698860,
+        "account_id": 1451623946523777405,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "posted",
+        "made_on": "2024-01-15",
+        "amount": -800.0,
+        "currency_code": "GBP",
+        "description": "MBNA 450197******3470 VIA MOBILE - PYMT FP 15/01/24 10 11104420199012000N",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "id": "861859F59D11C314979013F8C2E66BFE2D12333635B25DE6DEE3601D26EBC75F7B66A03DFDAEF01696FB2369B93C61E1",
+          "time": "00:00:00",
+          "type": "DPC",
+          "closing_balance": 258.65,
+          "account_balance_snapshot": 912.07,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-11T09:03:58.000Z",
+        "updated_at": "2025-01-11T09:03:58.000Z"
+      }
+    },
+    {
+      "amount": 2500.0,
+      "date": "2024-01-15",
+      "original_data": {
+        "id": 1451623970439698861,
+        "account_id": 1451623946523777405,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "posted",
+        "made_on": "2024-01-15",
+        "amount": 2500.0,
+        "currency_code": "GBP",
+        "description": "From A/C 22903216 MACNAMEE RJG Via Mobile Xfer",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "id": "861859F59D11C314979013F8C2E66BFE2D12333635B25DE6DEE3601D26EBC75FF07DBBDC57BB15FCACD0ABD42A741101",
+          "time": "00:00:00",
+          "type": "DPC",
+          "closing_balance": 1058.65,
+          "account_balance_snapshot": 912.07,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-11T09:03:58.000Z",
+        "updated_at": "2025-01-11T09:03:58.000Z"
+      }
+    },
+    {
+      "amount": -60.0,
+      "date": "2024-01-17",
+      "original_data": {
+        "id": 1451623970439698862,
+        "account_id": 1451623946523777405,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "posted",
+        "made_on": "2024-01-17",
+        "amount": -60.0,
+        "currency_code": "GBP",
+        "description": "NOTEMACHINE 17JAN",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "id": "861859F59D11C314979013F8C2E66BFE3AB2172AE43A6A12432B333D053425C452F6EACE3670F71C1638F8DCE9F23DF6",
+          "time": "00:00:00",
+          "type": "C/L 4",
+          "closing_balance": 154.65,
+          "account_balance_snapshot": 912.07,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-11T09:03:58.000Z",
+        "updated_at": "2025-01-11T09:03:58.000Z"
+      }
+    },
+    {
+      "amount": -7.0,
+      "date": "2025-01-22",
+      "original_data": {
+        "id": 1458212066224511562,
+        "account_id": 1451623946523777405,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "pending",
+        "made_on": "2025-01-22",
+        "amount": -7.0,
+        "currency_code": "GBP",
+        "description": "SAINT ANNES SQUARE",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "time": "00:00:00",
+          "type": "POS",
+          "posted_by_aspsp": true,
+          "account_balance_snapshot": 253.88,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-20T11:13:20.000Z",
+        "updated_at": "2025-01-20T11:13:20.000Z"
+      }
+    },
+    {
+      "amount": -80.0,
+      "date": "2025-01-22",
+      "original_data": {
+        "id": 1458212066241288779,
+        "account_id": 1451623946523777405,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "pending",
+        "made_on": "2025-01-22",
+        "amount": -80.0,
+        "currency_code": "GBP",
+        "description": "Mumbai27",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "time": "00:00:00",
+          "type": "POS",
+          "posted_by_aspsp": true,
+          "account_balance_snapshot": 253.88,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-20T11:13:20.000Z",
+        "updated_at": "2025-01-20T11:13:20.000Z"
+      }
+    },
+    {
+      "amount": -74.59,
+      "date": "2025-01-22",
+      "original_data": {
+        "id": 1458212066241288780,
+        "account_id": 1451623946523777405,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "pending",
+        "made_on": "2025-01-22",
+        "amount": -74.59,
+        "currency_code": "GBP",
+        "description": "GFS OMAGH LINITED",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "time": "00:00:00",
+          "type": "POS",
+          "posted_by_aspsp": true,
+          "account_balance_snapshot": 253.88,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-20T11:13:20.000Z",
+        "updated_at": "2025-01-20T11:13:20.000Z"
+      }
+    },
+    {
+      "amount": -36.0,
+      "date": "2025-01-22",
+      "original_data": {
+        "id": 1458212066241288781,
+        "account_id": 1451623946523777405,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "pending",
+        "made_on": "2025-01-22",
+        "amount": -36.0,
+        "currency_code": "GBP",
+        "description": "MARKS&SPENCER PLC",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "time": "00:00:00",
+          "type": "POS",
+          "posted_by_aspsp": true,
+          "account_balance_snapshot": 253.88,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-20T11:13:20.000Z",
+        "updated_at": "2025-01-20T11:13:20.000Z"
+      }
+    }
+  ],
+  "transactions_with_discrepancies": []
+}

@@ -1,0 +1,5 @@
+Category,Count
+Validated Transactions,123
+Missing from JSON,0
+Extra in JSON,3
+Transactions with Discrepancies,0

@@ -1,0 +1,89 @@
+Technical PRD for Reconciling Transaction Data Between JSON and CSV Files
+
+Project Title:
+
+Transaction Data Reconciliation Tool
+
+Purpose:
+
+Develop a Python-based tool to reconcile transaction data between two files:
+	1.	A JSON file containing detailed transaction records.
+	2.	A CSV file containing summarized or alternate transaction details.
+
+The tool will identify matching, mismatching, and missing transactions between the two data sources to ensure accuracy and completeness of financial records.
+
+Scope:
+	•	Input Files:
+	•	JSON: Detailed transaction records with fields like id, amount, description, date, and extra attributes.
+	•	CSV: Tabular data with similar fields, potentially using alternate formats or naming conventions.
+	•	Output:
+	•	A reconciliation report highlighting:
+	•	Transactions present in both files (matched).
+	•	Transactions present in one file but not the other (missing).
+	•	Transactions with mismatched attributes (e.g., amount discrepancies).
+
+Functional Requirements:
+	1.	File Loading:
+	•	Load JSON and CSV files using Python libraries (json, pandas).
+	•	Handle different encodings and file sizes efficiently.
+	2.	Data Parsing and Cleaning:
+	•	Normalize field names across JSON and CSV for alignment.
+	•	Strip whitespace, convert dates to a standard format (e.g., ISO 8601), and ensure amounts are numeric.
+	3.	Matching Logic:
+	•	Match transactions using a unique identifier (id) or a combination of fields (e.g., date, amount, description).
+	•	Flag transactions as:
+	•	Matched: Transactions with identical attributes.
+	•	Missing: Transactions present in one file but absent in the other.
+	•	Mismatched: Transactions with the same id but differing attributes (e.g., amount).
+	4.	Reporting:
+	•	Generate a structured reconciliation report:
+	•	Summary of matched, missing, and mismatched transactions.
+	•	Detailed logs for mismatches, including the specific fields and discrepancies.
+	•	Output the report in multiple formats (e.g., CSV, JSON).
+	5.	Error Handling:
+	•	Gracefully handle missing or malformed files.
+	•	Log errors with descriptive messages for debugging.
+	6.	Scalability:
+	•	Process files with thousands of transactions efficiently.
+	•	Minimize memory usage by leveraging generators or chunk processing.
+
+Technical Requirements:
+	•	Language: Python 3.8+
+	•	Libraries:
+	•	pandas for data manipulation.
+	•	json for JSON parsing.
+	•	csv or pandas for CSV handling.
+	•	argparse for CLI options (optional).
+	•	logging for error and process logging.
+
+Implementation Steps:
+	1.	Setup:
+	•	Create a virtual environment and install dependencies.
+	•	Define project structure:
+
+reconcile_project/
+├── src/
+│   ├── reconcile.py
+│   ├── utils.py
+├── tests/
+│   ├── test_reconcile.py
+├── data/
+│   ├── transactions.json
+│   ├── transactions.csv
+├── reports/
+│   ├── reconciliation_report.csv
+├── requirements.txt
+├── README.md
+
+
+	2.	Data Loading and Normalization:
+	•	Parse JSON and CSV data.
+	•	Normalize fields and clean data.
+	3.	Reconciliation Logic:
+	•	Implement matching logic with configurable thresholds (e.g., fuzzy matching for descriptions).
+	4.	Output Generation:
+	•	Create a structured report with summary statistics and detailed discrepancies.
+	5.	Testing:
+	•	Develop unit tests for each module.
+	•	Test with edge cases (e.g., missing fields, corrupted files).
+

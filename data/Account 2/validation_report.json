@@ -1,0 +1,1694 @@
+{
+  "summary": {
+    "total_validated": 123,
+    "total_missing_from_json": 0,
+    "total_extra_in_json": 3,
+    "total_discrepancies": 0
+  },
+  "validated_transactions": [
+    {
+      "amount": 1994.0,
+      "date": "2024-01-22",
+      "original_data": {
+        "Date": "22 Jan 2024",
+        "Type": "CHP",
+        "Description": "FAMILY AND LIVIN , PCM55CI16610208 , ROBERT JOSEPH GE , RARD MAC NAMEE , CHAPS TFR",
+        "Value": "1994.00",
+        "Balance": "2358.05",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -62.5,
+      "date": "2024-01-23",
+      "original_data": {
+        "Date": "23 Jan 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-62.50",
+        "Balance": "2295.55",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -531.09,
+      "date": "2024-01-23",
+      "original_data": {
+        "Date": "23 Jan 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-531.09",
+        "Balance": "1764.46",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -10.0,
+      "date": "2024-01-26",
+      "original_data": {
+        "Date": "26 Jan 2024",
+        "Type": "DPC",
+        "Description": "MISS NIAMH EILEEN , LOOP GM-NM XKI2 , TPP TRUELAYER LIMI, FP 26/01/24 10 , 32113950772877000N",
+        "Value": "-10.00",
+        "Balance": "1754.46",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -629.03,
+      "date": "2024-02-06",
+      "original_data": {
+        "Date": "06 Feb 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-629.03",
+        "Balance": "1125.43",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 2.5,
+      "date": "2024-02-07",
+      "original_data": {
+        "Date": "07 Feb 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "2.50",
+        "Balance": "1127.93",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 5.8,
+      "date": "2024-02-07",
+      "original_data": {
+        "Date": "07 Feb 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "5.80",
+        "Balance": "1133.73",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -1.55,
+      "date": "2024-02-14",
+      "original_data": {
+        "Date": "14 Feb 2024",
+        "Type": "CHG",
+        "Description": "UNPAID TRANSAC FEE, 24JAN A/C 22903216",
+        "Value": "-1.55",
+        "Balance": "1132.18",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -20.0,
+      "date": "2024-02-16",
+      "original_data": {
+        "Date": "16 Feb 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-20.00",
+        "Balance": "1112.18",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -330.56,
+      "date": "2024-02-20",
+      "original_data": {
+        "Date": "20 Feb 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-330.56",
+        "Balance": "781.62",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 1994.0,
+      "date": "2024-02-22",
+      "original_data": {
+        "Date": "22 Feb 2024",
+        "Type": "CHP",
+        "Description": "FAMILY AND LIVIN , PCM55CI17186668 , ROBERT JOSEPH GE , RARD MAC NAMEE , CHAPS TFR",
+        "Value": "1994.00",
+        "Balance": "2775.62",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 2.7,
+      "date": "2024-02-28",
+      "original_data": {
+        "Date": "28 Feb 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "2.70",
+        "Balance": "2778.32",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 2500.0,
+      "date": "2024-03-01",
+      "original_data": {
+        "Date": "01 Mar 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 01/03/24 0926 , REV092844153237242",
+        "Value": "2500.00",
+        "Balance": "5278.32",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -2500.0,
+      "date": "2024-03-01",
+      "original_data": {
+        "Date": "01 Mar 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-2500.00",
+        "Balance": "2778.32",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -2500.0,
+      "date": "2024-03-01",
+      "original_data": {
+        "Date": "01 Mar 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-2500.00",
+        "Balance": "278.32",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -20.0,
+      "date": "2024-03-18",
+      "original_data": {
+        "Date": "18 Mar 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-20.00",
+        "Balance": "258.32",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-03-25",
+      "original_data": {
+        "Date": "25 Mar 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 24/03/24 0453 , REV112560093753313",
+        "Value": "3000.00",
+        "Balance": "3258.32",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 1994.0,
+      "date": "2024-03-25",
+      "original_data": {
+        "Date": "25 Mar 2024",
+        "Type": "CHP",
+        "Description": "FAMILY AND LIVIN , PCM55CI17780312 , ROBERT JOSEPH GE , RARD MAC NAMEE , CHAPS TFR",
+        "Value": "1994.00",
+        "Balance": "5252.32",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3000.0,
+      "date": "2024-03-25",
+      "original_data": {
+        "Date": "25 Mar 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3000.00",
+        "Balance": "2252.32",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -250.79,
+      "date": "2024-03-25",
+      "original_data": {
+        "Date": "25 Mar 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-250.79",
+        "Balance": "2001.53",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 4.8,
+      "date": "2024-03-27",
+      "original_data": {
+        "Date": "27 Mar 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "4.80",
+        "Balance": "2006.33",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -10.0,
+      "date": "2024-04-04",
+      "original_data": {
+        "Date": "04 Apr 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-10.00",
+        "Balance": "1996.33",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -1500.0,
+      "date": "2024-04-09",
+      "original_data": {
+        "Date": "09 Apr 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-1500.00",
+        "Balance": "496.33",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-04-15",
+      "original_data": {
+        "Date": "15 Apr 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 15/04/24 0844 , REV131670552946177",
+        "Value": "3000.00",
+        "Balance": "3496.33",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3000.0,
+      "date": "2024-04-15",
+      "original_data": {
+        "Date": "15 Apr 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3000.00",
+        "Balance": "496.33",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -25.0,
+      "date": "2024-04-16",
+      "original_data": {
+        "Date": "16 Apr 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-25.00",
+        "Balance": "471.33",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 1994.0,
+      "date": "2024-04-22",
+      "original_data": {
+        "Date": "22 Apr 2024",
+        "Type": "CHP",
+        "Description": "FAMILY AND LIVIN , PCM55CI18305675 , ROBERT JOSEPH GE , RARD MAC NAMEE , CHAPS TFR",
+        "Value": "1994.00",
+        "Balance": "2465.33",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -19.48,
+      "date": "2024-04-22",
+      "original_data": {
+        "Date": "22 Apr 2024",
+        "Type": "DPC",
+        "Description": "CHEDDAR PAYMENTS L, UCAPIHMFSQD3SC9E6A, AGYD , TPP CHEDDAR PAYMEN, FP 20/04/24 10 , 43053610759144000N",
+        "Value": "-19.48",
+        "Balance": "2445.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -25.0,
+      "date": "2024-04-22",
+      "original_data": {
+        "Date": "22 Apr 2024",
+        "Type": "DPC",
+        "Description": "CHEDDAR PAYMENTS L, B7KWUGX5FVMAFCFQGS, RI4W , TPP CHEDDAR PAYMEN, FP 20/04/24 10 , 48064744935707000N",
+        "Value": "-25.00",
+        "Balance": "2420.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -223.66,
+      "date": "2024-04-22",
+      "original_data": {
+        "Date": "22 Apr 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-223.66",
+        "Balance": "2197.19",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3.1,
+      "date": "2024-05-01",
+      "original_data": {
+        "Date": "01 May 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "3.10",
+        "Balance": "2200.29",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-05-02",
+      "original_data": {
+        "Date": "02 May 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 02/05/24 1230 , REV146494354471276",
+        "Value": "3000.00",
+        "Balance": "5200.29",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -2000.0,
+      "date": "2024-05-02",
+      "original_data": {
+        "Date": "02 May 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-2000.00",
+        "Balance": "3200.29",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3000.0,
+      "date": "2024-05-02",
+      "original_data": {
+        "Date": "02 May 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3000.00",
+        "Balance": "200.29",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -25.99,
+      "date": "2024-05-03",
+      "original_data": {
+        "Date": "03 May 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-25.99",
+        "Balance": "174.30",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 2.5,
+      "date": "2024-05-15",
+      "original_data": {
+        "Date": "15 May 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "2.50",
+        "Balance": "176.80",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -20.0,
+      "date": "2024-05-16",
+      "original_data": {
+        "Date": "16 May 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-20.00",
+        "Balance": "156.80",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -169.86,
+      "date": "2024-05-21",
+      "original_data": {
+        "Date": "21 May 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-169.86",
+        "Balance": "-13.06",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 1000.0,
+      "date": "2024-05-22",
+      "original_data": {
+        "Date": "22 May 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 22/05/24 1814 , REV163980532601469",
+        "Value": "1000.00",
+        "Balance": "986.94",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 1994.0,
+      "date": "2024-05-22",
+      "original_data": {
+        "Date": "22 May 2024",
+        "Type": "CHP",
+        "Description": "FAMILY AND LIVIN , PCM55CI18877288 , ROBERT JOSEPH GE , RARD MAC NAMEE , CHAPS TFR",
+        "Value": "1994.00",
+        "Balance": "2980.94",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -1500.0,
+      "date": "2024-05-22",
+      "original_data": {
+        "Date": "22 May 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-1500.00",
+        "Balance": "1480.94",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-05-22",
+      "original_data": {
+        "Date": "22 May 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-1000.00",
+        "Balance": "480.94",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3.4,
+      "date": "2024-05-30",
+      "original_data": {
+        "Date": "30 May 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "3.40",
+        "Balance": "484.34",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3.4,
+      "date": "2024-05-30",
+      "original_data": {
+        "Date": "30 May 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "3.40",
+        "Balance": "487.74",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -25.99,
+      "date": "2024-06-05",
+      "original_data": {
+        "Date": "05 Jun 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-25.99",
+        "Balance": "461.75",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 5000.0,
+      "date": "2024-06-06",
+      "original_data": {
+        "Date": "06 Jun 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 06/06/24 1803 , REV176934039138649",
+        "Value": "5000.00",
+        "Balance": "5461.75",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -4000.0,
+      "date": "2024-06-06",
+      "original_data": {
+        "Date": "06 Jun 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-4000.00",
+        "Balance": "1461.75",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -20.0,
+      "date": "2024-06-17",
+      "original_data": {
+        "Date": "17 Jun 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-20.00",
+        "Balance": "1441.75",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 4000.0,
+      "date": "2024-06-20",
+      "original_data": {
+        "Date": "20 Jun 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 20/06/24 1238 , REV188835171484064",
+        "Value": "4000.00",
+        "Balance": "5441.75",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -4000.0,
+      "date": "2024-06-20",
+      "original_data": {
+        "Date": "20 Jun 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-4000.00",
+        "Balance": "1441.75",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -59.0,
+      "date": "2024-06-20",
+      "original_data": {
+        "Date": "20 Jun 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-59.00",
+        "Balance": "1382.75",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -965.32,
+      "date": "2024-06-20",
+      "original_data": {
+        "Date": "20 Jun 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-965.32",
+        "Balance": "417.43",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 1994.0,
+      "date": "2024-06-24",
+      "original_data": {
+        "Date": "24 Jun 2024",
+        "Type": "CHP",
+        "Description": "FAMILY AND LIVIN , PCM55CI19447499 , ROBERT JOSEPH GE , RARD MAC NAMEE , CHAPS TFR",
+        "Value": "1994.00",
+        "Balance": "2411.43",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -395.49,
+      "date": "2024-06-24",
+      "original_data": {
+        "Date": "24 Jun 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-395.49",
+        "Balance": "2015.94",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -57.99,
+      "date": "2024-06-26",
+      "original_data": {
+        "Date": "26 Jun 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-57.99",
+        "Balance": "1957.95",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 5000.0,
+      "date": "2024-07-03",
+      "original_data": {
+        "Date": "03 Jul 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 03/07/24 0523 , REV199806072122325",
+        "Value": "5000.00",
+        "Balance": "6957.95",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -5000.0,
+      "date": "2024-07-03",
+      "original_data": {
+        "Date": "03 Jul 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-5000.00",
+        "Balance": "1957.95",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -25.0,
+      "date": "2024-07-16",
+      "original_data": {
+        "Date": "16 Jul 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-25.00",
+        "Balance": "1932.95",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3.9,
+      "date": "2024-07-17",
+      "original_data": {
+        "Date": "17 Jul 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "3.90",
+        "Balance": "1936.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 1994.0,
+      "date": "2024-07-22",
+      "original_data": {
+        "Date": "22 Jul 2024",
+        "Type": "CHP",
+        "Description": "FAMILY AND LIVIN , PCM55CI19943599 , ROBERT JOSEPH GE , RARD MAC NAMEE , CHAPS TFR",
+        "Value": "1994.00",
+        "Balance": "3930.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -223.11,
+      "date": "2024-07-22",
+      "original_data": {
+        "Date": "22 Jul 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-223.11",
+        "Balance": "3707.74",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3500.0,
+      "date": "2024-07-24",
+      "original_data": {
+        "Date": "24 Jul 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3500.00",
+        "Balance": "207.74",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 1000.0,
+      "date": "2024-08-12",
+      "original_data": {
+        "Date": "12 Aug 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 10/08/24 1706 , REV233059864019789",
+        "Value": "1000.00",
+        "Balance": "1207.74",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -1000.0,
+      "date": "2024-08-12",
+      "original_data": {
+        "Date": "12 Aug 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-1000.00",
+        "Balance": "207.74",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -41.11,
+      "date": "2024-08-12",
+      "original_data": {
+        "Date": "12 Aug 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-41.11",
+        "Balance": "166.63",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 4500.0,
+      "date": "2024-08-13",
+      "original_data": {
+        "Date": "13 Aug 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 12/08/24 1925 , REV234871023627848",
+        "Value": "4500.00",
+        "Balance": "4666.63",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 500.0,
+      "date": "2024-08-13",
+      "original_data": {
+        "Date": "13 Aug 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 12/08/24 1924 , REV234870851237744",
+        "Value": "500.00",
+        "Balance": "5166.63",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3000.0,
+      "date": "2024-08-13",
+      "original_data": {
+        "Date": "13 Aug 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3000.00",
+        "Balance": "2166.63",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -20.0,
+      "date": "2024-08-16",
+      "original_data": {
+        "Date": "16 Aug 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-20.00",
+        "Balance": "2146.63",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -180.18,
+      "date": "2024-08-19",
+      "original_data": {
+        "Date": "19 Aug 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-180.18",
+        "Balance": "1966.45",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 1994.0,
+      "date": "2024-08-22",
+      "original_data": {
+        "Date": "22 Aug 2024",
+        "Type": "CHP",
+        "Description": "FAMILY AND LIVIN , PCM55CI20483191 , ROBERT JOSEPH GE , RARD MAC NAMEE , CHAPS TFR",
+        "Value": "1994.00",
+        "Balance": "3960.45",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3500.0,
+      "date": "2024-08-28",
+      "original_data": {
+        "Date": "28 Aug 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3500.00",
+        "Balance": "460.45",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -119.36,
+      "date": "2024-08-29",
+      "original_data": {
+        "Date": "29 Aug 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-119.36",
+        "Balance": "341.09",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -56.48,
+      "date": "2024-09-04",
+      "original_data": {
+        "Date": "04 Sep 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-56.48",
+        "Balance": "284.61",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 5000.0,
+      "date": "2024-09-06",
+      "original_data": {
+        "Date": "06 Sep 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 06/09/24 0854 , REV256092548266389",
+        "Value": "5000.00",
+        "Balance": "5284.61",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -4000.0,
+      "date": "2024-09-06",
+      "original_data": {
+        "Date": "06 Sep 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-4000.00",
+        "Balance": "1284.61",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -716.67,
+      "date": "2024-09-09",
+      "original_data": {
+        "Date": "09 Sep 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-716.67",
+        "Balance": "567.94",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3.1,
+      "date": "2024-09-11",
+      "original_data": {
+        "Date": "11 Sep 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "3.10",
+        "Balance": "571.04",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -20.0,
+      "date": "2024-09-16",
+      "original_data": {
+        "Date": "16 Sep 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-20.00",
+        "Balance": "551.04",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 1994.0,
+      "date": "2024-09-23",
+      "original_data": {
+        "Date": "23 Sep 2024",
+        "Type": "CHP",
+        "Description": "FAMILY AND LIVIN , PCM55CI20997776 , ROBERT JOSEPH GE , RARD MAC NAMEE , CHAPS TFR",
+        "Value": "1994.00",
+        "Balance": "2545.04",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -335.67,
+      "date": "2024-09-23",
+      "original_data": {
+        "Date": "23 Sep 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-335.67",
+        "Balance": "2209.37",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -2000.0,
+      "date": "2024-09-30",
+      "original_data": {
+        "Date": "30 Sep 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-2000.00",
+        "Balance": "209.37",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 5000.0,
+      "date": "2024-10-02",
+      "original_data": {
+        "Date": "02 Oct 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 02/10/24 1454 , REV278772714379940",
+        "Value": "5000.00",
+        "Balance": "5209.37",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -5000.0,
+      "date": "2024-10-02",
+      "original_data": {
+        "Date": "02 Oct 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-5000.00",
+        "Balance": "209.37",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-10-14",
+      "original_data": {
+        "Date": "14 Oct 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 14/10/24 1531 , REV289163158928979",
+        "Value": "3000.00",
+        "Balance": "3209.37",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3000.0,
+      "date": "2024-10-14",
+      "original_data": {
+        "Date": "14 Oct 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3000.00",
+        "Balance": "209.37",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -1.55,
+      "date": "2024-10-15",
+      "original_data": {
+        "Date": "15 Oct 2024",
+        "Type": "CHG",
+        "Description": "UNPAID TRANSAC FEE, 24SEP A/C 22903216",
+        "Value": "-1.55",
+        "Balance": "207.82",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -25.0,
+      "date": "2024-10-16",
+      "original_data": {
+        "Date": "16 Oct 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-25.00",
+        "Balance": "182.82",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -116.0,
+      "date": "2024-10-30",
+      "original_data": {
+        "Date": "30 Oct 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-116.00",
+        "Balance": "66.82",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 450.0,
+      "date": "2024-11-05",
+      "original_data": {
+        "Date": "05 Nov 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 05/11/24 0626 , REV307880126300949",
+        "Value": "450.00",
+        "Balance": "516.82",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -500.0,
+      "date": "2024-11-05",
+      "original_data": {
+        "Date": "05 Nov 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-500.00",
+        "Balance": "16.82",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3.3,
+      "date": "2024-11-13",
+      "original_data": {
+        "Date": "13 Nov 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "3.30",
+        "Balance": "20.12",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -1.55,
+      "date": "2024-11-14",
+      "original_data": {
+        "Date": "14 Nov 2024",
+        "Type": "CHG",
+        "Description": "UNPAID TRANSAC FEE, 24OCT A/C 22903216",
+        "Value": "-1.55",
+        "Balance": "18.57",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-11-18",
+      "original_data": {
+        "Date": "18 Nov 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 17/11/24 0845 , REV318331059892315",
+        "Value": "3000.00",
+        "Balance": "3018.57",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 2000.0,
+      "date": "2024-11-18",
+      "original_data": {
+        "Date": "18 Nov 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 18/11/24 0931 , REV319222836420995",
+        "Value": "2000.00",
+        "Balance": "5018.57",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3000.0,
+      "date": "2024-11-18",
+      "original_data": {
+        "Date": "18 Nov 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3000.00",
+        "Balance": "2018.57",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -20.0,
+      "date": "2024-11-18",
+      "original_data": {
+        "Date": "18 Nov 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-20.00",
+        "Balance": "1998.57",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -573.8,
+      "date": "2024-11-19",
+      "original_data": {
+        "Date": "19 Nov 2024",
+        "Type": "D/D",
+        "Description": "B/CARD PLAT VISA",
+        "Value": "-573.80",
+        "Balance": "1424.77",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 4.1,
+      "date": "2024-11-20",
+      "original_data": {
+        "Date": "20 Nov 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "4.10",
+        "Balance": "1428.87",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 2500.0,
+      "date": "2024-11-21",
+      "original_data": {
+        "Date": "21 Nov 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 21/11/24 0930 , REV321814004203845",
+        "Value": "2500.00",
+        "Balance": "3928.87",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -12.93,
+      "date": "2024-11-25",
+      "original_data": {
+        "Date": "25 Nov 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-12.93",
+        "Balance": "3915.94",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -599.99,
+      "date": "2024-11-27",
+      "original_data": {
+        "Date": "27 Nov 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-599.99",
+        "Balance": "3315.95",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3000.0,
+      "date": "2024-12-02",
+      "original_data": {
+        "Date": "02 Dec 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3000.00",
+        "Balance": "315.95",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 2.7,
+      "date": "2024-12-04",
+      "original_data": {
+        "Date": "04 Dec 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "2.70",
+        "Balance": "318.65",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -159.0,
+      "date": "2024-12-04",
+      "original_data": {
+        "Date": "04 Dec 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-159.00",
+        "Balance": "159.65",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3000.0,
+      "date": "2024-12-06",
+      "original_data": {
+        "Date": "06 Dec 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 06/12/24 0932 , REV334775442433835",
+        "Value": "3000.00",
+        "Balance": "3159.65",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3000.0,
+      "date": "2024-12-06",
+      "original_data": {
+        "Date": "06 Dec 2024",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3000.00",
+        "Balance": "159.65",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 3.2,
+      "date": "2024-12-11",
+      "original_data": {
+        "Date": "11 Dec 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "3.20",
+        "Balance": "162.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -25.0,
+      "date": "2024-12-16",
+      "original_data": {
+        "Date": "16 Dec 2024",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-25.00",
+        "Balance": "137.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -92.6,
+      "date": "2024-12-16",
+      "original_data": {
+        "Date": "16 Dec 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-92.60",
+        "Balance": "45.25",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 4000.0,
+      "date": "2024-12-18",
+      "original_data": {
+        "Date": "18 Dec 2024",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 18/12/24 1605 , REV345379416204157",
+        "Value": "4000.00",
+        "Balance": "4045.25",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 2.9,
+      "date": "2024-12-18",
+      "original_data": {
+        "Date": "18 Dec 2024",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "2.90",
+        "Balance": "4048.15",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -10.0,
+      "date": "2024-12-19",
+      "original_data": {
+        "Date": "19 Dec 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-10.00",
+        "Balance": "4038.15",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -395.0,
+      "date": "2024-12-20",
+      "original_data": {
+        "Date": "20 Dec 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-395.00",
+        "Balance": "3643.15",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -379.0,
+      "date": "2024-12-23",
+      "original_data": {
+        "Date": "23 Dec 2024",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-379.00",
+        "Balance": "3264.15",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 2.7,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "BAC",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "2.70",
+        "Balance": "3266.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3000.0,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3000.00",
+        "Balance": "266.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -10.0,
+      "date": "2025-01-02",
+      "original_data": {
+        "Date": "02 Jan 2025",
+        "Type": "D/D",
+        "Description": "PAYPAL PAYMENT",
+        "Value": "-10.00",
+        "Balance": "256.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": 5000.0,
+      "date": "2025-01-06",
+      "original_data": {
+        "Date": "06 Jan 2025",
+        "Type": "BAC",
+        "Description": "ROBERT JOSEPH MACN, SENT FROM REVOLUT , FP 06/01/25 1043 , REV361602188447845",
+        "Value": "5000.00",
+        "Balance": "5256.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -3000.0,
+      "date": "2025-01-06",
+      "original_data": {
+        "Date": "06 Jan 2025",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-3000.00",
+        "Balance": "2256.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -2000.0,
+      "date": "2025-01-08",
+      "original_data": {
+        "Date": "08 Jan 2025",
+        "Type": "DPC",
+        "Description": "To A/C 22993673 , MACNAMEE RJG & S , Via Mobile Xfer",
+        "Value": "-2000.00",
+        "Balance": "256.85",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -1.55,
+      "date": "2025-01-14",
+      "original_data": {
+        "Date": "14 Jan 2025",
+        "Type": "CHG",
+        "Description": "UNPAID TRANSAC FEE, 24DEC A/C 22903216",
+        "Value": "-1.55",
+        "Balance": "255.30",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    },
+    {
+      "amount": -20.0,
+      "date": "2025-01-16",
+      "original_data": {
+        "Date": "16 Jan 2025",
+        "Type": "D/D",
+        "Description": "ALLWYN ENT LTD",
+        "Value": "-20.00",
+        "Balance": "235.30",
+        "Account Name": "MACNAMEE RJG",
+        "Account Number": "600423-22903216"
+      }
+    }
+  ],
+  "missing_from_json": [],
+  "extra_in_json": [
+    {
+      "amount": -1.55,
+      "date": "2024-01-12",
+      "original_data": {
+        "id": 1451623970087377299,
+        "account_id": 1451623946456668540,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "posted",
+        "made_on": "2024-01-12",
+        "amount": -1.55,
+        "currency_code": "GBP",
+        "description": "UNPAID TRANSAC FEE22DEC A/C 22903216",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "id": "D4CFCFF4500A6FAD4778E83F79E1C9CC8761CDA7DDF912D8445458E3DA66A7C0CB041F132C4B18164181F621D357A523",
+          "time": "00:00:00",
+          "type": "CHG",
+          "closing_balance": 2889.05,
+          "account_balance_snapshot": 256.85,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-11T09:03:58.000Z",
+        "updated_at": "2025-01-11T09:03:58.000Z"
+      }
+    },
+    {
+      "amount": -2500.0,
+      "date": "2024-01-15",
+      "original_data": {
+        "id": 1451623970095765908,
+        "account_id": 1451623946456668540,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "posted",
+        "made_on": "2024-01-15",
+        "amount": -2500.0,
+        "currency_code": "GBP",
+        "description": "To A/C 22993673 MACNAMEE RJG & S Via Mobile Xfer",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "id": "D4CFCFF4500A6FAD4778E83F79E1C9CCA904972C06337CD1F7E154DAC855EDBE337F22A0DFBB089E441C0017C85C4003",
+          "time": "00:00:00",
+          "type": "DPC",
+          "closing_balance": 389.05,
+          "account_balance_snapshot": 256.85,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-11T09:03:58.000Z",
+        "updated_at": "2025-01-11T09:03:58.000Z"
+      }
+    },
+    {
+      "amount": -25.0,
+      "date": "2024-01-16",
+      "original_data": {
+        "id": 1451623970095765909,
+        "account_id": 1451623946456668540,
+        "duplicated": false,
+        "mode": "normal",
+        "status": "posted",
+        "made_on": "2024-01-16",
+        "amount": -25.0,
+        "currency_code": "GBP",
+        "description": "CAMELOT LOTTERY",
+        "category": "uncategorized",
+        "similar_pending_ids": null,
+        "extra": {
+          "id": "D4CFCFF4500A6FAD4778E83F79E1C9CC65BB3A9F02E4603627CD3FCEE21D3B91BCD77DB70BE60220BC2FC80E12B87AA4",
+          "time": "00:00:00",
+          "type": "D/D",
+          "closing_balance": 364.05,
+          "account_balance_snapshot": 256.85,
+          "categorization_confidence": null
+        },
+        "created_at": "2025-01-11T09:03:58.000Z",
+        "updated_at": "2025-01-11T09:03:58.000Z"
+      }
+    }
+  ],
+  "transactions_with_discrepancies": []
+}
