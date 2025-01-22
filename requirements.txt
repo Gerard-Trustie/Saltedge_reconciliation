@@ -1,0 +1,10 @@
+# Testing
+pytest==8.1.1
+
+# Code Quality
+pylint==3.0.3
+black==24.2.0  # Code formatter
+isort==5.13.2  # Import sorter
+
+# Type checking
+mypy==1.9.0
