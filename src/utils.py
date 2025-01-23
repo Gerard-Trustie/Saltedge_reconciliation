@@ -26,14 +26,23 @@ def normalize_transaction(transaction: Dict[str, Any]) -> Dict[str, Any]:
     # Handle amount/value fields
     if "Value" in transaction:  # CSV field
         try:
-            # Remove currency symbol if present and convert to float
-            value_str = str(transaction["Value"]).strip().replace("£", "").replace(",", "")
-            normalized["amount"] = float(value_str)
+            # Remove currency symbol and commas, but preserve minus sign
+            value_str = str(transaction["Value"]).strip()
+            value_str = value_str.replace("£", "").replace(",", "")
+            
+            # Handle negative amounts (could be -£50 or £-50)
+            if value_str.startswith('-') or value_str.endswith('-'):
+                value_str = value_str.replace('-', '')
+                normalized["amount"] = -float(value_str)
+            else:
+                normalized["amount"] = float(value_str)
+                
         except (ValueError, TypeError):
             normalized["amount"] = 0.0
     elif "amount" in transaction:  # JSON field
         try:
-            normalized["amount"] = float(str(transaction["amount"]).strip().replace(",", ""))
+            amount_str = str(transaction["amount"]).strip().replace(",", "")
+            normalized["amount"] = float(amount_str)  # This will preserve negative signs
         except (ValueError, TypeError):
             normalized["amount"] = 0.0
     
@@ -57,6 +66,10 @@ def normalize_transaction(transaction: Dict[str, Any]) -> Dict[str, Any]:
     
     # Store original fields for reference
     normalized["original_data"] = transaction
+    
+    # Add debug logging for amount normalization
+    print(f"Original amount: {transaction.get('Value', transaction.get('amount', 'N/A'))}")
+    print(f"Normalized amount: {normalized.get('amount')}")
     
     return normalized
 

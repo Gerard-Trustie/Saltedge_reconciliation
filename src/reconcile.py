@@ -29,12 +29,21 @@ def find_json_match(
         matches = True
         
         # Compare date and amount
+        csv_amount = csv_transaction.get("amount", 0)
+        json_amount = json_tx.get("amount", 0)
+        
+        # Strict amount comparison including sign
         if (csv_transaction.get("date") != json_tx.get("date") or
-            abs(csv_transaction.get("amount", 0) - json_tx.get("amount", 0)) > 0.01):
+            abs(csv_amount - json_amount) > 0.01 or  # Check magnitude within tolerance
+            (csv_amount * json_amount < 0)):  # Check if signs are different
             matches = False
             continue
         
         if matches:
+            # Add debug logging
+            print(f"Match found:")
+            print(f"CSV amount: {csv_amount}")
+            print(f"JSON amount: {json_amount}")
             return json_tx
     
     return None

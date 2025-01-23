@@ -1,0 +1,3903 @@
+{
+  "summary": {
+    "total_recurring_groups": 17,
+    "recurring_payments": [
+      {
+        "description": "mbuk (Monthly)",
+        "transaction_count": 13,
+        "average_amount": -44.0,
+        "amount_std_dev": 0.0,
+        "first_date": "2024-01-15",
+        "last_date": "2025-01-15",
+        "transactions": [
+          {
+            "amount": -44.0,
+            "date": "2024-01-15",
+            "original_data": {
+              "id": 1451623970431310251,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-01-15",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE2D12333635B25DE6DEE3601D26EBC75F06058F779FE401E9AC1C46A8872ACAFD",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 214.65,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-02-15",
+            "original_data": {
+              "id": 1451623970498419152,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-15",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEB0EC0450D4179F9838FB13B2335D8BC9EEE878800D8784159F0801CECAE651FF",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -570.5,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-03-15",
+            "original_data": {
+              "id": 1451623970540362215,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-15",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE9443C7546F3F270E01B6DE0993ACFC907B3136C40224E66366E81E07144C6FB4",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1326.64,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-04-15",
+            "original_data": {
+              "id": 1451623972763343388,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-04-15",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE18818650A73AC168B27B86A3753B7E487A6A99BA3DD0B74159687C603B85E879",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 703.22,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-05-15",
+            "original_data": {
+              "id": 1451623972813675064,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-05-15",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE784A5FAE9085ABFC6C2968702EF9C1AD0843B1E1DD84850C859674F67BE5B060",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 802.53,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-06-17",
+            "original_data": {
+              "id": 1451623974357179002,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-17",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE3300199126DFD1553D3E375C09EC3C99DCF5E309D987FE61F74F68ED7859C98C",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 728.43,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-07-15",
+            "original_data": {
+              "id": 1451623974407510679,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-07-15",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEC2D102C17DB22A8B1AD88A6C7F1BFFA343A9F10858F6F95133DA057279320D50",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -681.03,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-08-15",
+            "original_data": {
+              "id": 1451623974449453748,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-15",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE832EBAB60211A2E7E45503803811D2E041FD4DFA42DB6E80FADF35C88539A9F7",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -243.35,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-09-16",
+            "original_data": {
+              "id": 1451623976118786797,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-16",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE6E498B976982A9B4881F5481D929F182036242BCD59C7E4757F3129462D0B955",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 81.96,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-10-15",
+            "original_data": {
+              "id": 1451623976169118474,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-15",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE855E49EB7E50D5F98D5AD8F401095114E7FA5AB936D49B0AE7E87BE91BE20820",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2220.38,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-11-15",
+            "original_data": {
+              "id": 1451623976211061537,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-15",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEF05E55E8EBD7757ABF98ECEC2BD9D028C55C06B04EF5DCA9676C879E78DCD685",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -2376.88,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2024-12-16",
+            "original_data": {
+              "id": 1451623977670679382,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-12-16",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE3C3F8EAC388026E0C021D20ACDF98694556FA1DDF52CE3AEB1BE136F92AB64EB",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1487.3,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -44.0,
+            "date": "2025-01-15",
+            "original_data": {
+              "id": 1457536913656256969,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2025-01-15",
+              "amount": -44.0,
+              "currency_code": "GBP",
+              "description": "MBUK",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE536E72CDEA6CEC931F894213B73852706B3FC6667203623CE619DBC1C027F575",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 257.38,
+                "account_balance_snapshot": 253.88,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-19T12:51:56.000Z",
+              "updated_at": "2025-01-19T12:51:56.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "nfu mutual ins-bc (Monthly)",
+        "transaction_count": 10,
+        "average_amount": -143.035,
+        "amount_std_dev": 11.182512389142847,
+        "first_date": "2024-01-24",
+        "last_date": "2024-12-24",
+        "transactions": [
+          {
+            "amount": -126.83,
+            "date": "2024-01-24",
+            "original_data": {
+              "id": 1451623970448087472,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-01-24",
+              "amount": -126.83,
+              "currency_code": "GBP",
+              "description": "NFU MUTUAL INS-BC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFED3843287EE6CC5201CE6B792C28E1B13C8C83053B86B6A508F40B8E1915E866A",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -672.9,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -126.83,
+            "date": "2024-02-26",
+            "original_data": {
+              "id": 1451623970506807763,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-26",
+              "amount": -126.83,
+              "currency_code": "GBP",
+              "description": "NFU MUTUAL INS-BC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE1F28EA7F771697856E6CD58C191AD359C842F373F798A129C99923FF7B72F855",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1005.92,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -126.83,
+            "date": "2024-03-25",
+            "original_data": {
+              "id": 1451623970557139436,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-25",
+              "amount": -126.83,
+              "currency_code": "GBP",
+              "description": "NFU MUTUAL INS-BC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEE2E8D36F484A15A8AFC66FC77E9916332041F0DB161B96BA153F911F19702D8B",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1262.53,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -149.98,
+            "date": "2024-05-24",
+            "original_data": {
+              "id": 1451623972830452292,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-05-24",
+              "amount": -149.98,
+              "currency_code": "GBP",
+              "description": "NFU MUTUAL INS-BC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE6B9CE9513491E7E6DE6EACE83EA11B8DA02EC45BAEED21E081BE0126DA7099A6",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2478.7,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -149.98,
+            "date": "2024-06-24",
+            "original_data": {
+              "id": 1451623974357179005,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-24",
+              "amount": -149.98,
+              "currency_code": "GBP",
+              "description": "NFU MUTUAL INS-BC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEACC6711268C02E7520CE95F5125FBF4C1C623C0517D1776CB2F2321E7A63EF53",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 4578.45,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -149.98,
+            "date": "2024-08-27",
+            "original_data": {
+              "id": 1451623974457842360,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-27",
+              "amount": -149.98,
+              "currency_code": "GBP",
+              "description": "NFU MUTUAL INS-BC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE72613FB2D9B6CB9E431B1119046A9C7789128764CB30BC2AC48F21913CE93AB6",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1351.9,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -149.98,
+            "date": "2024-09-24",
+            "original_data": {
+              "id": 1451623976127175411,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-24",
+              "amount": -149.98,
+              "currency_code": "GBP",
+              "description": "NFU MUTUAL INS-BC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFED346227721AD8AEEEB3EFAD37B3CC95DF966AED9F9E56C601CCE3CEE59C06ECB",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -338.97,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -149.98,
+            "date": "2024-10-24",
+            "original_data": {
+              "id": 1451623976177507086,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-24",
+              "amount": -149.98,
+              "currency_code": "GBP",
+              "description": "NFU MUTUAL INS-BC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE2672F0628ED6E41F7F148406744ABEB7245D447D451DC500398CB5F152EA4F91",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1676.46,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -149.98,
+            "date": "2024-11-25",
+            "original_data": {
+              "id": 1451623977653902145,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-25",
+              "amount": -149.98,
+              "currency_code": "GBP",
+              "description": "NFU MUTUAL INS-BC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFED30181FBCB0F1F0296A0326D8B5A4F0D6153CBD480F939CE0E796FA7011C7608",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -452.6,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -149.98,
+            "date": "2024-12-24",
+            "original_data": {
+              "id": 1451623977670679387,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-12-24",
+              "amount": -149.98,
+              "currency_code": "GBP",
+              "description": "NFU MUTUAL INS-BC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE0957EA0BA0AA897F5C4AC3BD5E6F0EFBD93E52A6F789C6C9907BE5ACD82F36CC",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 464.37,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "aviva life (Monthly)",
+        "transaction_count": 12,
+        "average_amount": -328.63,
+        "amount_std_dev": 0.0,
+        "first_date": "2024-01-25",
+        "last_date": "2024-12-27",
+        "transactions": [
+          {
+            "amount": -328.63,
+            "date": "2024-01-25",
+            "original_data": {
+              "id": 1451623970448087473,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-01-25",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE655044C5E4394AC19102E9A2A7F4A734E39618C0B802FC0875A3D59DD0C55443",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1085.53,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-02-26",
+            "original_data": {
+              "id": 1451623970498419154,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-26",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE1F28EA7F771697856E6CD58C191AD3595E1E8C0E8333CF36B77D80F8CC0F98FA",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1334.55,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-03-25",
+            "original_data": {
+              "id": 1451623970548750827,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-25",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEE2E8D36F484A15A8AFC66FC77E9916335FDD6F56F523BE9B0D8CAAC90CB3C889",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 933.9,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-04-25",
+            "original_data": {
+              "id": 1451623972780120612,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-04-25",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4153FD414A6E64000A2EC23EF2D55748C3E44B6B11A2ADF08CBC3A0B8B83777D",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -912.74,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-05-28",
+            "original_data": {
+              "id": 1451623972830452294,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-05-28",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE52D44DA8DA20A46866E3F7122FC2FDB1205B6C922C1FE29CB20096171625EB8D",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 424.83,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-06-25",
+            "original_data": {
+              "id": 1451623974365567614,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-25",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEC604F9B1AA89F9455AF75B4E4EFD606A4A95B8B6D88ADFC3D8B9DA41C8FECA22",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 3774.86,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-07-25",
+            "original_data": {
+              "id": 1451623974415899295,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-07-25",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEE56500A57FDC2087699660F7CABE6F1344327848B5A6F9321344EF1EDEE1519F",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1982.48,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-08-27",
+            "original_data": {
+              "id": 1451623974457842359,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-27",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE72613FB2D9B6CB9E431B1119046A9C775318110B239674FDFF075465F35EE121",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1680.53,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-09-25",
+            "original_data": {
+              "id": 1451623976127175412,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-25",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE0E7120D99FCED439B2E0EA1AECE8675C64D2F29ABA0F0B07663A46003D7219F4",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -751.6,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-10-25",
+            "original_data": {
+              "id": 1451623976185895696,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-25",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEA81D13A3AE52C5D0703ED4B56153A7F8642158EC4BB5E5CDA59DC338E2071D03",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1263.83,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-11-25",
+            "original_data": {
+              "id": 1451623977653902144,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-25",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFED30181FBCB0F1F0296A0326D8B5A4F0DE8045E9AC5EE88E7D95B30CEFEF3630C",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -781.23,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -328.63,
+            "date": "2024-12-27",
+            "original_data": {
+              "id": 1451623977670679389,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-12-27",
+              "amount": -328.63,
+              "currency_code": "GBP",
+              "description": "AVIVA LIFE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4C9CEEF16324F1230A2B3510D3628D3C39887668262F36BF3C5B5226F4DED36A",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 51.74,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "mrs l macnamee (Monthly)",
+        "transaction_count": 12,
+        "average_amount": -84.0,
+        "amount_std_dev": 0.0,
+        "first_date": "2024-01-25",
+        "last_date": "2024-12-27",
+        "transactions": [
+          {
+            "amount": -84.0,
+            "date": "2024-01-25",
+            "original_data": {
+              "id": 1451623970448087474,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-01-25",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE655044C5E4394AC19102E9A2A7F4A734BFB785D4E44BB4CD620A104DEF2AC94A",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": -756.9,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-02-26",
+            "original_data": {
+              "id": 1451623970506807764,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-26",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE1F28EA7F771697856E6CD58C191AD3595A5C7EF44F82473664DB8CFA9EA69D51",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": -879.09,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-03-25",
+            "original_data": {
+              "id": 1451623970557139437,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-25",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEE2E8D36F484A15A8AFC66FC77E991633A9C4D5E28A89D8B3A77A61E22A28084A",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": 1389.36,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-04-25",
+            "original_data": {
+              "id": 1451623972780120613,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-04-25",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4153FD414A6E64000A2EC23EF2D5574852B690C890751B5065F380AB6C7F7E7C",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": -584.11,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-05-28",
+            "original_data": {
+              "id": 1451623972838840903,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-05-28",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE52D44DA8DA20A46866E3F7122FC2FDB10524FD349DB04A42E2D4A488A01429C4",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": 753.46,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-06-25",
+            "original_data": {
+              "id": 1451623974365567615,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-25",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEC604F9B1AA89F9455AF75B4E4EFD606A6A198315673549FD00529BB2E603F6DE",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": 4103.49,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-07-25",
+            "original_data": {
+              "id": 1451623974415899296,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-07-25",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEE56500A57FDC2087699660F7CABE6F13D2E71533CE0FE97279878B1B0FAF57FF",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": 2311.11,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-08-27",
+            "original_data": {
+              "id": 1451623974457842361,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-27",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE72613FB2D9B6CB9E431B1119046A9C772CDC61DE2B8F708B3E0F259381B5C90E",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": -1201.92,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-09-25",
+            "original_data": {
+              "id": 1451623976127175413,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-25",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE0E7120D99FCED439B2E0EA1AECE8675CAC97D8BB83B5D327E6C9B374D8174D10",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": -422.97,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-10-25",
+            "original_data": {
+              "id": 1451623976185895697,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-25",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEA81D13A3AE52C5D0703ED4B56153A7F875D7F24A852624C764976FF33DAE3FC0",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": 1592.46,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-11-25",
+            "original_data": {
+              "id": 1451623977653902146,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-25",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFED30181FBCB0F1F0296A0326D8B5A4F0D739BDA302975BDB4CF9570F00D92706A",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": -302.62,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -84.0,
+            "date": "2024-12-27",
+            "original_data": {
+              "id": 1451623977670679390,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-12-27",
+              "amount": -84.0,
+              "currency_code": "GBP",
+              "description": "MRS L MACNAMEE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4C9CEEF16324F1230A2B3510D3628D3C53164127F4D70CFF64F56D4C14E1EDEE",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": 380.37,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "vodafone ltd (Monthly)",
+        "transaction_count": 3,
+        "average_amount": -88.16,
+        "amount_std_dev": 11.645260838641613,
+        "first_date": "2024-02-28",
+        "last_date": "2024-11-27",
+        "transactions": [
+          {
+            "amount": -81.81,
+            "date": "2024-02-28",
+            "original_data": {
+              "id": 1451623970506807766,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-28",
+              "amount": -81.81,
+              "currency_code": "GBP",
+              "description": "VODAFONE LTD",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4ED18224BFB1E7022A8905BC487E6C20C719C99DD758155C0E1B1AD3063315C6",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1509.35,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -81.07,
+            "date": "2024-03-27",
+            "original_data": {
+              "id": 1451623970557139440,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-27",
+              "amount": -81.07,
+              "currency_code": "GBP",
+              "description": "VODAFONE LTD",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE3706311EBBAE688B914FDF74B01D8B385545C03649D5CB66912F6EEDB7208D71",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 417.91,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -101.6,
+            "date": "2024-11-27",
+            "original_data": {
+              "id": 1451623977653902147,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-27",
+              "amount": -101.6,
+              "currency_code": "GBP",
+              "description": "VODAFONE LTD",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE08B30D8F08C4BF398CF31D4D491879279B0E2527D80AEFEA9384A84A3AC8B452",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -977.82,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "sanlam inv & pen (Monthly)",
+        "transaction_count": 7,
+        "average_amount": -75.0,
+        "amount_std_dev": 0.0,
+        "first_date": "2024-01-29",
+        "last_date": "2024-07-29",
+        "transactions": [
+          {
+            "amount": -75.0,
+            "date": "2024-01-29",
+            "original_data": {
+              "id": 1451623970456476085,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-01-29",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "SANLAM INV & PEN",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE553AC7AEA25C65B4EC5A8575B9C2796D78FC855358A0A6554740DB2610D8BCD5",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1352.74,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -75.0,
+            "date": "2024-02-27",
+            "original_data": {
+              "id": 1451623970506807765,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-27",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "SANLAM INV & PEN",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE2AEF8F86065C543BA78A9892B00803B14C9A6412C376BE259C0A15B28C0E1EF7",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1409.55,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -75.0,
+            "date": "2024-03-27",
+            "original_data": {
+              "id": 1451623970557139441,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-27",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "SANLAM INV & PEN",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE3706311EBBAE688B914FDF74B01D8B38D5DDCC126130C496359A61512882CB11",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 498.98,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -75.0,
+            "date": "2024-04-29",
+            "original_data": {
+              "id": 1451623972780120615,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-04-29",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "SANLAM INV & PEN",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFECBCD02A18951BBBC9202A60B831C2E94F88DE4C673D94C82ED48B124C8400797",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1087.62,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -75.0,
+            "date": "2024-05-28",
+            "original_data": {
+              "id": 1451623972830452293,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-05-28",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "SANLAM INV & PEN",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE52D44DA8DA20A46866E3F7122FC2FDB189304F701D61E6932C44FCF5F7645FF4",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 349.83,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -75.0,
+            "date": "2024-06-27",
+            "original_data": {
+              "id": 1451623974365567617,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-27",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "SANLAM INV & PEN",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE2AD0C95CC6B10B169BDFBDD7BA3FF820F2E35023D7D352F7B1DE7A3F1677B04B",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 3377.32,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -75.0,
+            "date": "2024-07-29",
+            "original_data": {
+              "id": 1451623974424287906,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-07-29",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "SANLAM INV & PEN",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE70429FCF35B361506E827145E6F29BD1F4DB8A5FE0E5FF0B5FABB192FD0D49A6",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1552.2,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "paypal payment (Monthly)",
+        "transaction_count": 7,
+        "average_amount": -19.13285714285714,
+        "amount_std_dev": 1.0690449676496976,
+        "first_date": "2024-01-29",
+        "last_date": "2024-11-27",
+        "transactions": [
+          {
+            "amount": -17.99,
+            "date": "2024-01-29",
+            "original_data": {
+              "id": 1451623970456476086,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-01-29",
+              "amount": -17.99,
+              "currency_code": "GBP",
+              "description": "PAYPAL PAYMENT",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE553AC7AEA25C65B4EC5A8575B9C2796D1604F6646CB0F3445E770BC7858A16BF",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1277.74,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -17.99,
+            "date": "2024-02-28",
+            "original_data": {
+              "id": 1451623970506807767,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-28",
+              "amount": -17.99,
+              "currency_code": "GBP",
+              "description": "PAYPAL PAYMENT",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4ED18224BFB1E7022A8905BC487E6C20682B112A3C8BE52C9D6D66F48EA41BDA",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1427.54,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -17.99,
+            "date": "2024-03-27",
+            "original_data": {
+              "id": 1451623970565528050,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-27",
+              "amount": -17.99,
+              "currency_code": "GBP",
+              "description": "PAYPAL PAYMENT",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE3706311EBBAE688B914FDF74B01D8B38564D4AA4BF6C25B564752A926704934A",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 573.98,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -19.99,
+            "date": "2024-06-27",
+            "original_data": {
+              "id": 1451623974365567618,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-27",
+              "amount": -19.99,
+              "currency_code": "GBP",
+              "description": "PAYPAL PAYMENT",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE2AD0C95CC6B10B169BDFBDD7BA3FF820A6266CF3BE5B5AA4BC8D6F42779EA951",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 3452.32,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -19.99,
+            "date": "2024-09-27",
+            "original_data": {
+              "id": 1451623976135564025,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-27",
+              "amount": -19.99,
+              "currency_code": "GBP",
+              "description": "PAYPAL PAYMENT",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEBB5385735C58160A732869361E8600EA94257682E6743EA3A01E0D54BC200CA2",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -817.28,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -19.99,
+            "date": "2024-10-29",
+            "original_data": {
+              "id": 1451623976185895700,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-29",
+              "amount": -19.99,
+              "currency_code": "GBP",
+              "description": "PAYPAL PAYMENT",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEDB5E43869BF5CE36F05B871F9324A91BA5D9F13D325573DDE03F36029810B3A6",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1065.63,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -19.99,
+            "date": "2024-11-27",
+            "original_data": {
+              "id": 1451623977653902149,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-27",
+              "amount": -19.99,
+              "currency_code": "GBP",
+              "description": "PAYPAL PAYMENT",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE08B30D8F08C4BF398CF31D4D49187927DA1307CD4C8AED9BCA72BE479CE151E9",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -801.22,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "pet plan ltd prem (Monthly)",
+        "transaction_count": 11,
+        "average_amount": -46.67727272727273,
+        "amount_std_dev": 6.287684933119805,
+        "first_date": "2024-02-01",
+        "last_date": "2025-01-02",
+        "transactions": [
+          {
+            "amount": -40.11,
+            "date": "2024-02-01",
+            "original_data": {
+              "id": 1451623970464864696,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-01",
+              "amount": -40.11,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEF9E51BD991124486F334DCD73ED49BFAB8A1A6AD20EFE2B01D529C51A41999FA",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2351.44,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -40.11,
+            "date": "2024-03-01",
+            "original_data": {
+              "id": 1451623970515196376,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-01",
+              "amount": -40.11,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE15BFBC26065B92F9505A4231DB4B8C8C6079EA50B6B894E88D1CD7241B3F8F23",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2702.88,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -40.11,
+            "date": "2024-04-02",
+            "original_data": {
+              "id": 1451623970565528051,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-04-02",
+              "amount": -40.11,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE9EB2F10619F290392DE7C26F372C49F48C632446868148964D462D148282DAD1",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1404.81,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -40.11,
+            "date": "2024-05-01",
+            "original_data": {
+              "id": 1451623972788509226,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-05-01",
+              "amount": -40.11,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE944059CBDF3AAC8D818315ABDDFC03C0ECADD5B61C706073F6DE941B7A9511E9",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -2339.46,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -40.11,
+            "date": "2024-06-03",
+            "original_data": {
+              "id": 1451623972838840908,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-03",
+              "amount": -40.11,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFECDCB4353FA422862E9E7BC6A160AA0E8A28D3EC42A1653AF7F9503A8F6808DD5",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1430.36,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -52.15,
+            "date": "2024-08-01",
+            "original_data": {
+              "id": 1451623974432676519,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-01",
+              "amount": -52.15,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEFB08D904C9891A78981BFE3B7015102AB60A96AB78334CB047BE170678A8BB2A",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 246.05,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -52.15,
+            "date": "2024-09-02",
+            "original_data": {
+              "id": 1451623974466230977,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-02",
+              "amount": -52.15,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEAE24F00F6A7528172F050A5CB6E3F0C290C564D6DF8A6348C1B577A4965A4711",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -2066.91,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -52.15,
+            "date": "2024-10-01",
+            "original_data": {
+              "id": 1451623976143952637,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-01",
+              "amount": -52.15,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE47C73A3FA2CEEE74B4842B0E846425AEA4A553F488B138C8E8F8E55841EE1AA1",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 85.7,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -52.15,
+            "date": "2024-11-01",
+            "original_data": {
+              "id": 1451623976194284310,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-01",
+              "amount": -52.15,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4F3050A6442ADF665CD7BF7F1D6AD61A6E43397D4058F7932DA1B54F2C051B9E",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -341.82,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -52.15,
+            "date": "2024-12-02",
+            "original_data": {
+              "id": 1451623977662290760,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-12-02",
+              "amount": -52.15,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE43383577F15B4CBF448B568EB3068102892AD840E4C1925A53412C0E89B12FBA",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 916.03,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -52.15,
+            "date": "2025-01-02",
+            "original_data": {
+              "id": 1451623977679068002,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2025-01-02",
+              "amount": -52.15,
+              "currency_code": "GBP",
+              "description": "PET PLAN LTD PREM",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE3562F0DF1138795A7502459DF34E79D4A899ABACC27A2AA7B6CC5B6B237C3AF8",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1372.99,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "talkmobile (Monthly)",
+        "transaction_count": 12,
+        "average_amount": -4.95,
+        "amount_std_dev": 0.0,
+        "first_date": "2024-02-01",
+        "last_date": "2025-01-02",
+        "transactions": [
+          {
+            "amount": -4.95,
+            "date": "2024-02-01",
+            "original_data": {
+              "id": 1451623970464864697,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-01",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEF9E51BD991124486F334DCD73ED49BFAB13C5B3B92F4C3CF7362620DB4CA8735",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2391.55,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2024-03-04",
+            "original_data": {
+              "id": 1451623970523584989,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-04",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEE3A0029C17A8132B488A4F85A08F7D801CEDF68061A462607B6FACABFDD35F95",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 971.73,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2024-04-02",
+            "original_data": {
+              "id": 1451623970565528052,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-04-02",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE9EB2F10619F290392DE7C26F372C49F404E6D5ABD0C62DFA57373437D8190FAC",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1364.7,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2024-05-02",
+            "original_data": {
+              "id": 1451623972796897837,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-05-02",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE7F46BB31869EC2F64CBB0E1B33D25340DFE24F82B368F8067DC4E9DADE81B70D",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2246.65,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2024-06-03",
+            "original_data": {
+              "id": 1451623972847229517,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-03",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFECDCB4353FA422862E9E7BC6A160AA0E8D5350AD303DA59A7375C8F7FBDC1CDEC",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1390.25,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2024-07-02",
+            "original_data": {
+              "id": 1451623974390733454,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-07-02",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEA6030AE7BD6FBDE12D5DC8D72E1DC15D36E8B61759C90AF6F3648F1CDCF9E108",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 216.99,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2024-08-01",
+            "original_data": {
+              "id": 1451623974432676520,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-01",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEFB08D904C9891A78981BFE3B7015102A9E84ED6BA7EB0AEE3B86C298DAF4EF27",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 298.2,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2024-09-02",
+            "original_data": {
+              "id": 1451623976085232351,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-02",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEAE24F00F6A7528172F050A5CB6E3F0C2FA7E38AC0B38600A5B747E3B6E56E4C9",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -2014.76,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2024-10-02",
+            "original_data": {
+              "id": 1451623976152341248,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-02",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFED6E323D282520A7A39F085E3B9856058595F556DE38843DC0655940909B12A40",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 5080.75,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2024-11-01",
+            "original_data": {
+              "id": 1451623976194284311,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-01",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4F3050A6442ADF665CD7BF7F1D6AD61AF5A23FE2FDEEE3258347B016E079377B",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -289.67,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2024-12-02",
+            "original_data": {
+              "id": 1451623977662290761,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-12-02",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE43383577F15B4CBF448B568EB3068102C5560082B73FCA8187AD1EEDB534570C",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 968.18,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -4.95,
+            "date": "2025-01-02",
+            "original_data": {
+              "id": 1451623977679068003,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2025-01-02",
+              "amount": -4.95,
+              "currency_code": "GBP",
+              "description": "TALKMOBILE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE3562F0DF1138795A7502459DF34E79D4A956A2DABAAF29024B917DF8CF30B2C6",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1425.14,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "artemis (Monthly)",
+        "transaction_count": 12,
+        "average_amount": -63.0,
+        "amount_std_dev": 0.0,
+        "first_date": "2024-02-01",
+        "last_date": "2025-01-02",
+        "transactions": [
+          {
+            "amount": -63.0,
+            "date": "2024-02-01",
+            "original_data": {
+              "id": 1451623970464864698,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-01",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEF9E51BD991124486F334DCD73ED49BFA71BBCB52C4CF6A363E3F1ABCF5EE5312",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2396.5,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2024-03-01",
+            "original_data": {
+              "id": 1451623970515196377,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-01",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE15BFBC26065B92F9505A4231DB4B8C8CD4BE07FFFC1B6E8805CA101E19B08D23",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2742.99,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2024-04-02",
+            "original_data": {
+              "id": 1451623970565528053,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-04-02",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE9EB2F10619F290392DE7C26F372C49F4625497217050C9A4A60EC88BDF6F8C0F",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1359.75,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2024-05-01",
+            "original_data": {
+              "id": 1451623972788509227,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-05-01",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE944059CBDF3AAC8D818315ABDDFC03C028FD18E5A56CC4EB9EA3E05737F801C3",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -2299.35,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2024-06-03",
+            "original_data": {
+              "id": 1451623972847229518,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-03",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFECDCB4353FA422862E9E7BC6A160AA0E8A754A69B147947519232E07478693A90",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1385.3,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2024-07-01",
+            "original_data": {
+              "id": 1451623974373956232,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-07-01",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE39D49F8D035B88F2DED16B78563E92219BAB9488FB218E58CDFDF6052A348CB3",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 605.27,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2024-08-01",
+            "original_data": {
+              "id": 1451623974432676521,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-01",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEFB08D904C9891A78981BFE3B7015102A33ADBE7B207338903540FCC5E058C186",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 303.15,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2024-09-02",
+            "original_data": {
+              "id": 1451623976093620962,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-02",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEAE24F00F6A7528172F050A5CB6E3F0C2622CA449CF2CFE4406A5C23ACF607AC4",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1461.6,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2024-10-01",
+            "original_data": {
+              "id": 1451623976143952638,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-01",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE47C73A3FA2CEEE74B4842B0E846425AE91720146F5EB05F2E6A54F5BC9AAB844",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 137.85,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2024-11-01",
+            "original_data": {
+              "id": 1451623976194284313,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-01",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4F3050A6442ADF665CD7BF7F1D6AD61AD87E03E896F7A69DF277C9BEA0834275",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 88.58,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2024-12-02",
+            "original_data": {
+              "id": 1451623977662290762,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-12-02",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE43383577F15B4CBF448B568EB3068102919A323BD92C9227169F8146B1486A25",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 973.13,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -63.0,
+            "date": "2025-01-02",
+            "original_data": {
+              "id": 1451623977679068005,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2025-01-02",
+              "amount": -63.0,
+              "currency_code": "GBP",
+              "description": "ARTEMIS",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE3562F0DF1138795A7502459DF34E79D441AED403FB92B5551F5725EF330FC01C",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1870.25,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "winmarith homes ltfp 01/02/24 30 06023854322647000n (Monthly)",
+        "transaction_count": 2,
+        "average_amount": -684.66,
+        "amount_std_dev": 0.0,
+        "first_date": "2024-02-01",
+        "last_date": "2024-03-01",
+        "transactions": [
+          {
+            "amount": -684.66,
+            "date": "2024-02-01",
+            "original_data": {
+              "id": 1451623970464864699,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-01",
+              "amount": -684.66,
+              "currency_code": "GBP",
+              "description": "WINMARITH HOMES LTFP 01/02/24 30 06023854322647000N",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEF9E51BD991124486F334DCD73ED49BFAA9C9E7701A2F130DB3287F4F710D78F2",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": 2459.5,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -684.66,
+            "date": "2024-03-01",
+            "original_data": {
+              "id": 1451623970515196378,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-01",
+              "amount": -684.66,
+              "currency_code": "GBP",
+              "description": "WINMARITH HOMES LTFP 01/03/24 30 09023833630419000N",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE15BFBC26065B92F9505A4231DB4B8C8C99D58BEAD2D8ABC130D39B8C3224EB2B",
+                "time": "00:00:00",
+                "type": "S/O",
+                "closing_balance": 2805.99,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "omagh credit union (Monthly)",
+        "transaction_count": 8,
+        "average_amount": -1000.0,
+        "amount_std_dev": 0.0,
+        "first_date": "2024-02-07",
+        "last_date": "2025-01-08",
+        "transactions": [
+          {
+            "amount": -1000.0,
+            "date": "2024-02-07",
+            "original_data": {
+              "id": 1451623970481641924,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-07",
+              "amount": -1000.0,
+              "currency_code": "GBP",
+              "description": "OMAGH CREDIT UNION",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE1406956E9400405D734711D709E0D83F42DAA4C4CA61AD418F509E5FB303F281",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2318.51,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -1000.0,
+            "date": "2024-03-06",
+            "original_data": {
+              "id": 1451623970531973602,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-06",
+              "amount": -1000.0,
+              "currency_code": "GBP",
+              "description": "OMAGH CREDIT UNION",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE530016FA49905A468451B954F8407384E7198C8D779634681F3120E5D6EBAEDE",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -28.27,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -1000.0,
+            "date": "2024-06-06",
+            "original_data": {
+              "id": 1451623972855618130,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-06",
+              "amount": -1000.0,
+              "currency_code": "GBP",
+              "description": "OMAGH CREDIT UNION",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE112CBAABA2C6E219465658BC3926AF2AB5D8B3A229F2353B175F882BBEAF5714",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2449.64,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -1000.0,
+            "date": "2024-07-08",
+            "original_data": {
+              "id": 1451623974399122068,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-07-08",
+              "amount": -1000.0,
+              "currency_code": "GBP",
+              "description": "OMAGH CREDIT UNION",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEF9B47838C6CF98B9E7630CB2EB63ECBA819800BF3A0E4C1FB832E05E640DD7DD",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 508.19,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -1000.0,
+            "date": "2024-08-07",
+            "original_data": {
+              "id": 1451623974441065134,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-07",
+              "amount": -1000.0,
+              "currency_code": "GBP",
+              "description": "OMAGH CREDIT UNION",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE9469B7B5FCF4BEA7DE0E36FB4B6F5CE15A35930DD58A648A66509CE0A9E23270",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1373.95,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -1000.0,
+            "date": "2024-09-06",
+            "original_data": {
+              "id": 1451623976102009573,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-06",
+              "amount": -1000.0,
+              "currency_code": "GBP",
+              "description": "OMAGH CREDIT UNION",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE77A0B1B46A2FE68CCB64742D06F298C033A11A97FF62B49010FB5B4041E5352B",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 2013.09,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -1000.0,
+            "date": "2024-10-08",
+            "original_data": {
+              "id": 1451623976160729860,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-08",
+              "amount": -1000.0,
+              "currency_code": "GBP",
+              "description": "OMAGH CREDIT UNION",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEDAD52EA7C506860B6D917B55B8970071AA07296D35F4CFCBC8D0E85AB0892C88",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 918.99,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -1000.0,
+            "date": "2025-01-08",
+            "original_data": {
+              "id": 1451623977695845233,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2025-01-08",
+              "amount": -1000.0,
+              "currency_code": "GBP",
+              "description": "OMAGH CREDIT UNION",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEAC4722A72ED18AF5DF401F5B69EE2BC820A3A0D773AA176ABDAA339F7BCC8EAE",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1504.22,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "21jan a/c 22993673 (Monthly)",
+        "transaction_count": 2,
+        "average_amount": -4.32,
+        "amount_std_dev": 0.12727922061357835,
+        "first_date": "2024-07-12",
+        "last_date": "2024-08-09",
+        "transactions": [
+          {
+            "amount": -4.23,
+            "date": "2024-07-12",
+            "original_data": {
+              "id": 1451623974399122070,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-07-12",
+              "amount": -4.23,
+              "currency_code": "GBP",
+              "description": "23JUN A/C 22993673",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE5124428DC3F65C8177BAFBCC5BF14654DF7E7566DAFFB82B6F06179BFD39568A",
+                "time": "00:00:00",
+                "type": "INT TO",
+                "closing_balance": 462.97,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -4.41,
+            "date": "2024-08-09",
+            "original_data": {
+              "id": 1451623974441065135,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-09",
+              "amount": -4.41,
+              "currency_code": "GBP",
+              "description": "21JUL A/C 22993673",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE6509D1FB0150B80B06A056D783F1807B69051E7DF18399AFBA463B21CFDD57C8",
+                "time": "00:00:00",
+                "type": "INT TO",
+                "closing_balance": -1378.36,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "bt group plc (Monthly)",
+        "transaction_count": 11,
+        "average_amount": -40.444545454545455,
+        "amount_std_dev": 1.2135597524338357,
+        "first_date": "2024-02-12",
+        "last_date": "2025-01-13",
+        "transactions": [
+          {
+            "amount": -37.99,
+            "date": "2024-02-12",
+            "original_data": {
+              "id": 1451623970490030536,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-02-12",
+              "amount": -37.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEDF79482B88108A9BED29361FE45D946FA7826BEA00F3225FB20A9ACBF024863C",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1951.95,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -37.99,
+            "date": "2024-03-12",
+            "original_data": {
+              "id": 1451623970540362213,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-03-12",
+              "amount": -37.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE05D4111C551719BD0EE44193ADC448A739F7E0526B5D4B855397617A606BC295",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1268.26,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -40.99,
+            "date": "2024-05-13",
+            "original_data": {
+              "id": 1451623972813675063,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-05-13",
+              "amount": -40.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE5DDF90AF1C4A8DD5D0B0BD0CE51CA464AE13779B4ECDEEF535E9661A3B274502",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 845.15,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -40.99,
+            "date": "2024-06-11",
+            "original_data": {
+              "id": 1451623972864006743,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-11",
+              "amount": -40.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFED7BDF64FF2DCEFF3EA30179D52DA84F2089760EE3F1291833094EA1DDDE71CAD",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1609.61,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -40.99,
+            "date": "2024-07-11",
+            "original_data": {
+              "id": 1451623974399122069,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-07-11",
+              "amount": -40.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE6BC767AEFF7110BA820C430E9562EE1DADF978C6D56C73A9A3530BFB1F491A3B",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 467.2,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -40.99,
+            "date": "2024-08-12",
+            "original_data": {
+              "id": 1451623974441065136,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-12",
+              "amount": -40.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEA62D283F738C988D6E5FE55696840284FD35A8FC18E8D647DA82212E830381A2",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -419.35,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -40.99,
+            "date": "2024-09-11",
+            "original_data": {
+              "id": 1451623976110398187,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-11",
+              "amount": -40.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE80655F8678081B5B07B40922BB4AADC16DEB567921A81B2562C3BC7B8A182734",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 145.96,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -40.99,
+            "date": "2024-10-11",
+            "original_data": {
+              "id": 1451623976160729861,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-11",
+              "amount": -40.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE22E69453C09962557A4A0A9850CBE3ADDC2A0AE7E44C30FB9F46FD5BCF82B59D",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -245.62,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -40.99,
+            "date": "2024-11-11",
+            "original_data": {
+              "id": 1451623976211061534,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-11",
+              "amount": -40.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE5DDA6DBF63CC2E59C64EA5A9FD8EF83E8016392366457CAB139097949BB1F6F8",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1626.57,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -40.99,
+            "date": "2024-12-11",
+            "original_data": {
+              "id": 1451623977662290770,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-12-11",
+              "amount": -40.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE5B2E2EEC2CF4D5185FD967495AD52FE30919B9FB55EFCA07900614F7FA6B4ED8",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1442.69,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -40.99,
+            "date": "2025-01-13",
+            "original_data": {
+              "id": 1457536913639479750,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2025-01-13",
+              "amount": -40.99,
+              "currency_code": "GBP",
+              "description": "BT GROUP PLC",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEA53D5CA7101CA5D785CE9EA21CDAFD3F144411999D08EDAADE19797F1B61BBED",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 325.58,
+                "account_balance_snapshot": 253.88,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-19T12:51:56.000Z",
+              "updated_at": "2025-01-19T12:51:56.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "land & property se (Monthly)",
+        "transaction_count": 9,
+        "average_amount": -264.0522222222222,
+        "amount_std_dev": 0.006666666666660603,
+        "first_date": "2024-04-30",
+        "last_date": "2024-12-31",
+        "transactions": [
+          {
+            "amount": -264.07,
+            "date": "2024-04-30",
+            "original_data": {
+              "id": 1451623972780120616,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-04-30",
+              "amount": -264.07,
+              "currency_code": "GBP",
+              "description": "LAND & PROPERTY SE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE5B95B1C7CEB3C0C6A00EF87EA3612B64200A0B6A5C4143DC97604EF51E4E3FB0",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1551.69,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -264.05,
+            "date": "2024-05-31",
+            "original_data": {
+              "id": 1451623972838840907,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-05-31",
+              "amount": -264.05,
+              "currency_code": "GBP",
+              "description": "LAND & PROPERTY SE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEBBC068A0CA7BF2ACCA20C836D636A6051CD367DCC571FA4D0E23A6EDA194F3A3",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -13.64,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -264.05,
+            "date": "2024-06-28",
+            "original_data": {
+              "id": 1451623974373956230,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-06-28",
+              "amount": -264.05,
+              "currency_code": "GBP",
+              "description": "LAND & PROPERTY SE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEC75A14E54B1495CD51E8972585D295F1FF82F7C87D1167923A6B614E236E379C",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 3113.27,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -264.05,
+            "date": "2024-07-31",
+            "original_data": {
+              "id": 1451623974424287910,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-07-31",
+              "amount": -264.05,
+              "currency_code": "GBP",
+              "description": "LAND & PROPERTY SE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE42BE5AB169A761C81034090D49581731E0EBEEB7F32B2CF1120CB8FD69C1570E",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1288.15,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -264.05,
+            "date": "2024-08-30",
+            "original_data": {
+              "id": 1451623974466230975,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-30",
+              "amount": -264.05,
+              "currency_code": "GBP",
+              "description": "LAND & PROPERTY SE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE54F80F707268F91D7048A7A214E8B568F9F9B2358E86BB691C2BB55251B210C8",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -748.6,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -264.05,
+            "date": "2024-09-30",
+            "original_data": {
+              "id": 1451623976135564026,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-30",
+              "amount": -264.05,
+              "currency_code": "GBP",
+              "description": "LAND & PROPERTY SE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEF19AB3D5549380C1CE236A245AFC29A115F3B8A65D52DCF4635FF7D8EDBC11F3",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 850.85,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -264.05,
+            "date": "2024-10-31",
+            "original_data": {
+              "id": 1451623976194284309,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-31",
+              "amount": -264.05,
+              "currency_code": "GBP",
+              "description": "LAND & PROPERTY SE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4295A22166F29C402E481C3098D22EE88F470E52AC8C9D2171C235304DF5965B",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 801.58,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -264.05,
+            "date": "2024-11-29",
+            "original_data": {
+              "id": 1451623977653902150,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-29",
+              "amount": -264.05,
+              "currency_code": "GBP",
+              "description": "LAND & PROPERTY SE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE338E3A100685B797A8C02BC6287ED19712077B338B7433150B84F8883967E507",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1313.87,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -264.05,
+            "date": "2024-12-31",
+            "original_data": {
+              "id": 1451623977679068001,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-12-31",
+              "amount": -264.05,
+              "currency_code": "GBP",
+              "description": "LAND & PROPERTY SE",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE3095B40527D86F93A1B4317F81A169ACC6C314C72BFD5A2D0BA92C6306EFCE0A",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -381.36,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "2404 11jun24 national lottery london gb (Weekly)",
+        "transaction_count": 2,
+        "average_amount": -20.0,
+        "amount_std_dev": 0.0,
+        "first_date": "2024-09-16",
+        "last_date": "2024-09-23",
+        "transactions": [
+          {
+            "amount": -20.0,
+            "date": "2024-09-16",
+            "original_data": {
+              "id": 1451623976118786798,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-16",
+              "amount": -20.0,
+              "currency_code": "GBP",
+              "description": "2404 13SEP24 NATIONAL LOTTERY LONDON GB",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE6E498B976982A9B4881F5481D929F18238B19EEAD0412771DC1BBFABF6510927",
+                "time": "00:00:00",
+                "type": "POS",
+                "closing_balance": 125.96,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -20.0,
+            "date": "2024-09-23",
+            "original_data": {
+              "id": 1451623976127175410,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-23",
+              "amount": -20.0,
+              "currency_code": "GBP",
+              "description": "2404 20SEP24 NATIONAL LOTTERY LONDON GB",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFED8DEC3E54CA812C73B9D14E50470EC728AD47754411CC42D063D05DC0A404ED7",
+                "time": "00:00:00",
+                "type": "POS",
+                "closing_balance": -138.04,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      },
+      {
+        "description": "casfs ltd (Monthly)",
+        "transaction_count": 5,
+        "average_amount": -75.0,
+        "amount_std_dev": 0.0,
+        "first_date": "2024-08-27",
+        "last_date": "2024-12-27",
+        "transactions": [
+          {
+            "amount": -75.0,
+            "date": "2024-08-27",
+            "original_data": {
+              "id": 1451623974449453750,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-08-27",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "CASFS LTD",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE72613FB2D9B6CB9E431B1119046A9C772FE9551FAF8B597AF354C11FD021F04A",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -1755.53,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:58.000Z",
+              "updated_at": "2025-01-11T09:03:58.000Z"
+            }
+          },
+          {
+            "amount": -75.0,
+            "date": "2024-09-27",
+            "original_data": {
+              "id": 1451623976135564024,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-09-27",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "CASFS LTD",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFEBB5385735C58160A732869361E8600EAB92762684B51C5FF2A62EB8C50876447",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -892.28,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -75.0,
+            "date": "2024-10-28",
+            "original_data": {
+              "id": 1451623976185895699,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-10-28",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "CASFS LTD",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE3B9D81D5C53F0B6D2614F781A486C623DCADDCC46FE04FA984DC3D1509A01140",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": 1188.83,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -75.0,
+            "date": "2024-11-27",
+            "original_data": {
+              "id": 1451623977653902148,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-11-27",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "CASFS LTD",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE08B30D8F08C4BF398CF31D4D49187927E4CE426A58B1C12EEC7015BBE5DBFD36",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -876.22,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          },
+          {
+            "amount": -75.0,
+            "date": "2024-12-27",
+            "original_data": {
+              "id": 1451623977670679388,
+              "account_id": 1451623946523777405,
+              "duplicated": false,
+              "mode": "normal",
+              "status": "posted",
+              "made_on": "2024-12-27",
+              "amount": -75.0,
+              "currency_code": "GBP",
+              "description": "CASFS LTD",
+              "category": "uncategorized",
+              "similar_pending_ids": null,
+              "extra": {
+                "id": "861859F59D11C314979013F8C2E66BFE4C9CEEF16324F1230A2B3510D3628D3C09ABF2B9B3DC279AA013149076F9EC30",
+                "time": "00:00:00",
+                "type": "D/D",
+                "closing_balance": -23.26,
+                "account_balance_snapshot": 912.07,
+                "categorization_confidence": null
+              },
+              "created_at": "2025-01-11T09:03:59.000Z",
+              "updated_at": "2025-01-11T09:03:59.000Z"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
