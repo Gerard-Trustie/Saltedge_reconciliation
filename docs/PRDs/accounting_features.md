@@ -1,13 +1,17 @@
 
+# TrustieTally Trustie accounting and budgeting features
+
+
+This document captures the technical accounting, transaction tracking, and financial accuracy aspects of Trustie. The focus is on ensuring that balances, transactions, and financial insights are correctly calculated and meaningfully displayed.
+
 # Money Moods
 
 
-![[Pasted image 20250208093446.png]]
-
+![Money Mood](./images/Money%20moods.jpg)
 
 
 **1. Screen Name & Purpose**
-
+****
 • **Screen Name:** Money Moods
 
 • **Purpose:** Encourages users to **manually categorize each transaction** into one of **four Money Moods** to build mindful spending habits.
@@ -158,9 +162,7 @@ Tag Me (Unclassified) % = (2,708 ÷ 19,582) × 100 = ~14%
 # Accounts Overview
 
 
-![[Pasted image 20250208091804.png]]
-
-
+![Accounts Overview](./images/AccountsOverview.jpg)
 
   
 
@@ -295,6 +297,8 @@ Tag Me (Unclassified) % = (2,708 ÷ 19,582) × 100 = ~14%
 • **Event: account_viewed** → When a user lands on this screen.
 
 # Saving Look ahead
+
+![Savings Lookahead](./images/Saving_Look_Ahead.jpg)
 
 **1. Screen Name & Purpose**
 
@@ -496,6 +500,9 @@ Saved: 16,874 - 19,582 = -£2,708
 
 ![[Pasted image 20250208093032.png]]
 
+![Earned in current Month](./images/Earned_in_Current_Month.jpg)
+
+
 
 **1. Screen Name & Purpose**
 
@@ -677,14 +684,13 @@ gift_income_total = sum(transaction["amount"] for transaction in gift_income)
 
 # Trustz in {current month}
 
+![Trustz in current Month](./images/Trustz_in_Current_Month.jpg)
 
-![[Pasted image 20250208093317.png]]
 
 
 # Spending Pockets
 
-![[Pasted image 20250208093342.png]]
-
+![Spending Pockets](./images/Spending_Pockets.jpg)
 
 **1. Screen Name & Purpose**
 
@@ -842,8 +848,7 @@ Remaining: £125
 # Spending Pockets Details (drill down view)
 
 
-![[Pasted image 20250208094458.png]]
-
+![Spending_Pocket_details](./images/Spending_Pocket_details.jpg)
 
 **1. Screen Name & Purpose**
 
@@ -992,8 +997,8 @@ Remaining: £60
   
 # Mood Tags (Transaction Categorization Screen)
 
-![[Pasted image 20250208094341.png]]
 
+![Money_Mood_Tagging](./images/Money_Mood_Tagging.jpg)
 
 
 **1. Screen Name & Purpose**
@@ -1138,7 +1143,9 @@ Remaining: £60
   
 # Recurring Spend
 
-![[Pasted image 20250208094721.png]]
+
+![Recurrring_Spend](./images/Recurrring_Spend.jpg)
+
 
 **1. Screen Name & Purpose**
 
@@ -1160,7 +1167,7 @@ Remaining: £60
 
 **A. Displayed Information**
 
-5. **Recurring Spend Summary**
+1. **Recurring Spend Summary**
 
 • **Section Title:** “Recurring Spend”
 
@@ -1276,8 +1283,8 @@ Total: £52.98 per month
 
 # Flexible Money Left
 
-![[Pasted image 20250208094814.png]]
 
+![Flexible_Money_left](./images/Flexible_Money_left.jpg)
 
 **1. Screen Name & Purpose**
 
@@ -1298,7 +1305,7 @@ Total: £52.98 per month
 
 **A. Displayed Information**
 
-10. **Money In (Income Sources)**
+1.  **Money In (Income Sources)**
 
 • **Regular Income:** Expected salary, recurring deposits.
 
@@ -1417,8 +1424,8 @@ Flexible Money Left = (2500 + 300) - (400 + 1200 + 600)
 
 # Where did my Money go
 
-![[Pasted image 20250208094947.png]]
 
+![Where_did_my_money_go](./images/Where_did_my_money_go.jpg)
 
 
 **1. Screen Name & Purpose**
@@ -1441,7 +1448,7 @@ Flexible Money Left = (2500 + 300) - (400 + 1200 + 600)
 
 **A. Displayed Information**
 
-17. **Total Spent This Month (Spending Overview)**
+1.  **Total Spent This Month (Spending Overview)**
 
 • Displays **total spending for the current month**.
 
@@ -1552,6 +1559,7 @@ Flexible Money Left = (2500 + 300) - (400 + 1200 + 600)
 
 
 ![[Pasted image 20250208095114.png]]
+![latest_transactions](./images/latest_transactions.jpg)
 
 
 **1. Screen Name & Purpose**
